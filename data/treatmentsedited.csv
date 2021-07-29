@@ -1,0 +1,1822 @@
+﻿treatments,,,,,,,
+id,organism,control,time,abundance,logscale,treatment,algalHost
+Steenhauer2016,V,FALSE,9.85E-03,7504123.969,TRUE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,V,FALSE,16.0339,4993441.887,TRUE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,V,FALSE,19.9987,5140436.516,TRUE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,V,FALSE,24.0796,13283117.06,TRUE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,V,FALSE,28.0456,17631935.97,TRUE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,V,FALSE,32.1302,96050581.84,TRUE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,V,FALSE,36.1686,3925545360,TRUE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,V,FALSE,40.0244,7045308261,TRUE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,V,FALSE,44.101,7485141246,TRUE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,V,FALSE,48.1245,13864365533,TRUE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,V,FALSE,52.1414,6559942007,TRUE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,V,FALSE,56.1046,4916997642,TRUE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,TRUE,0,13668.7797,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,TRUE,16.0292,31101.4263,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,TRUE,19.9676,71909.6672,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,TRUE,24.0032,45166.4025,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,TRUE,27.9579,63094.2948,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,TRUE,32.0097,51406.4976,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,TRUE,35.9806,83300.317,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,TRUE,39.9676,52694.1363,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,TRUE,44.0194,51307.4485,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,TRUE,47.9579,1.16E+05,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,TRUE,51.9773,1.33E+05,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,TRUE,55.9481,1.58E+05,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,FALSE,0.0711,13911.3992,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,FALSE,16.0262,49297.6768,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,FALSE,20.0474,71988.1145,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,FALSE,24.0553,1.19E+05,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,FALSE,28.0529,1.37E+05,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,FALSE,32.0594,1.19E+05,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,FALSE,36.0443,1.01E+05,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,FALSE,40.0335,32414.9109,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,FALSE,44.0593,5672.6094,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,FALSE,48.0724,5132.3609,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,FALSE,52.0626,2296.0562,FALSE,Replete,Cylindrospermopsis raciborskii
+Steenhauer2016,H,FALSE,56.0529,1,FALSE,Replete,Cylindrospermopsis raciborskii
+Slagter2016,H,TRUE,0.0231,8.63E+05,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,TRUE,3.9284,1.04E+06,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,TRUE,8.002,9.43E+05,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,TRUE,12.0321,9.82E+05,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,TRUE,16.023,9.53E+05,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,TRUE,20.0533,9.8E+05,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,TRUE,24.0433,9.93E+05,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,TRUE,28.0752,9.46E+05,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,TRUE,32.0666,8.87E+05,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,TRUE,36.0156,9.14E+05,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,TRUE,40.0457,9.58E+05,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,TRUE,44.0348,1.01E+06,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,TRUE,48.0655,1.02E+06,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,TRUE,0,8.62E+05,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,TRUE,4.0281,1.04E+06,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,TRUE,8.0243,8.88E+05,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,TRUE,12.0524,8.36E+05,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,TRUE,16.0486,1.06E+06,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,TRUE,19.9808,1.3E+06,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,TRUE,23.9769,1.6E+06,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,TRUE,28.0051,1.58E+06,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,TRUE,32.0652,1.55E+06,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,TRUE,35.9655,1.64E+06,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,TRUE,40.0256,1.55E+06,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,TRUE,44.0217,1.94E+06,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,FALSE,0,8.65E+05,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,FALSE,4.0277,1.04E+06,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,FALSE,8.0553,8.53E+05,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,FALSE,12.0423,6.65E+05,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,FALSE,16.0293,5.6E+05,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,FALSE,20.0163,5.11E+05,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,FALSE,24.0439,2.9E+05,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,FALSE,28.0309,2.2E+05,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,FALSE,32.0586,13029.316,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,FALSE,36.0456,11400.6515,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,FALSE,40.0325,3257.329,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,FALSE,44.0602,1628.6644,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,FALSE,48.0879,1,FALSE,Replete, Phaeocystis globosa
+Slagter2016,V,FALSE,0,1.71E+07,FALSE,Replete, Phaeocystis globosa
+Slagter2016,V,FALSE,3.9902,2.78E+07,FALSE,Replete, Phaeocystis globosa
+Slagter2016,V,FALSE,8.0212,5.64E+07,FALSE,Replete, Phaeocystis globosa
+Slagter2016,V,FALSE,12.0521,3.12E+08,FALSE,Replete, Phaeocystis globosa
+Slagter2016,V,FALSE,16.0423,3.69E+08,FALSE,Replete, Phaeocystis globosa
+Slagter2016,V,FALSE,20.0326,5.58E+08,FALSE,Replete, Phaeocystis globosa
+Slagter2016,V,FALSE,24.0635,5.15E+08,FALSE,Replete, Phaeocystis globosa
+Slagter2016,V,FALSE,28.0945,5.5E+08,FALSE,Replete, Phaeocystis globosa
+Slagter2016,V,FALSE,32.0847,6.65E+08,FALSE,Replete, Phaeocystis globosa
+Slagter2016,V,FALSE,36.0342,7.16E+08,FALSE,Replete, Phaeocystis globosa
+Slagter2016,V,FALSE,40.0651,5.96E+08,FALSE,Replete, Phaeocystis globosa
+Slagter2016,V,FALSE,44.0554,6.73E+08,FALSE,Replete, Phaeocystis globosa
+Slagter2016,V,FALSE,48.127,6.06E+08,FALSE,Replete, Phaeocystis globosa
+Slagter2016,H,FALSE,0.0138,8.6E+05,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,FALSE,4.0187,1.09E+06,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,FALSE,8.0506,1E+06,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,FALSE,11.987,9.56E+05,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,FALSE,16.0827,8.49E+05,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,FALSE,20.1464,7.47E+05,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,FALSE,24.0158,5.06E+05,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,FALSE,28.1133,5.22E+05,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,FALSE,32.0461,2.38E+05,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,FALSE,36.0458,1.42E+05,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,FALSE,40.0143,93589.7436,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,FALSE,44.079,58974.359,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,FALSE,48.0479,34615.3846,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,V,FALSE,0.0431,1.61E+07,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,V,FALSE,4.0937,1.56E+07,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,V,FALSE,8.0325,1.52E+07,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,V,FALSE,12.0156,2.95E+07,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,V,FALSE,16.0811,8.77E+07,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,V,FALSE,20.0308,1.61E+08,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,V,FALSE,24.108,2.06E+08,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,V,FALSE,28.0883,2.33E+08,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,V,FALSE,32.1011,2.69E+08,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,V,FALSE,36.1786,3.24E+08,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,V,FALSE,44.2339,3.28E+08,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,V,FALSE,48.246,3.46E+08,FALSE,Fe Limited, Phaeocystis globosa
+Slagter2016,H,FALSE,0,8.66E+05,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,4.0601,1.06E+06,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,8.0243,8.39E+05,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,12.0524,7.04E+05,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,16.0806,5.86E+05,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,20.0448,5.55E+05,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,24.0729,3.33E+05,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,28.0691,81893.794,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,32.1292,2559.1811,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,36.0934,3257.329,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,40.1854,1628.6644,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,44.2455,0,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,48.1458,0,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,4.71E-04,1.47E+07,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,4.0956,2.69E+07,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,8.0628,4.3E+07,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,12.0363,2.55E+08,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,16.0705,3.64E+08,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,20.1048,4.78E+08,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,24.1039,4.88E+08,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,28.0395,5.13E+08,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,32.042,6.34E+08,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,36.0759,7.33E+08,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,44.101,5.98E+08,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,48.1629,5.72E+08,FALSE,"Replete host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,0.0135,8.46E+05,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,4.0502,1.06E+06,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,8.0181,9.71E+05,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,12.0184,9.12E+05,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,15.9854,7.68E+05,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,20.0174,6.9E+05,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,23.984,5.23E+05,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,28.0171,5.06E+05,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,32.0788,2.85E+05,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,36.0458,1.42E+05,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,40.047,1.37E+05,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,44.0479,1.1E+05,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,H,FALSE,48.1125,69230.7692,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,0.0692,1.83E+07,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,4.0698,1.06E+07,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,8.058,1.83E+07,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,12.0291,4.75E+07,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,16.0496,1.06E+08,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,20.0624,1.43E+08,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,24.1068,1.66E+08,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,28.0869,1.88E+08,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,32.195,1.97E+08,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,40.2177,1.83E+08,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,44.1969,1.77E+08,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016,V,FALSE,48.2741,2.2E+08,FALSE,"Fe limited host, Fe limited vius", Phaeocystis globosa
+Slagter2016a,H,TRUE,0,1.04E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,TRUE,3.9677,8.61E+05,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,TRUE,7.9355,9.59E+05,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,TRUE,12,1.05E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,TRUE,15.9194,9.74E+05,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,TRUE,19.9839,1.54E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,TRUE,23.9516,1.82E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,TRUE,27.9808,2.11E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,TRUE,31.9471,2.02E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,TRUE,35.9856,2.81E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,TRUE,39.9519,3.42E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,TRUE,43.9904,4.69E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,TRUE,47.8846,4.77E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,TRUE,51.851,6E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,TRUE,55.8894,5.79E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,TRUE,59.8558,6.89E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,TRUE,0.0232,9.59E+05,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,TRUE,4.0379,9E+05,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,TRUE,8.0094,1.05E+06,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,TRUE,12.0238,9.85E+05,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,TRUE,15.9918,9.94E+05,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,TRUE,20.0084,1.01E+06,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,TRUE,23.9343,1.28E+06,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,TRUE,28.0498,1.39E+06,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,TRUE,32.0164,1.34E+06,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,TRUE,36.0364,1.5E+06,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,TRUE,40.0051,1.54E+06,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,TRUE,44.0195,1.47E+06,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,TRUE,52.0068,1.61E+06,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,TRUE,60.0416,1.72E+06,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,FALSE,0.0181,1.08E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,FALSE,4.0724,9.85E+05,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,FALSE,7.9266,1.06E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,FALSE,12.0186,1.05E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,FALSE,15.9955,8.93E+05,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,FALSE,19.9628,1.22E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,FALSE,24.0532,1.29E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,FALSE,27.988,1.27E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,FALSE,32.0093,8.6E+05,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,FALSE,35.9835,8.38E+05,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,FALSE,40.0009,6.21E+05,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,FALSE,44.0956,4.75E+05,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,FALSE,48.0365,1.42E+05,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,FALSE,52.0125,33078.8803,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,FALSE,55.9868,6361.3232,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,FALSE,59.6852,3816.7939,FALSE,Replete, Micromonas pusilla
+Slagter2016a,V,FALSE,0,7.12E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,V,FALSE,4.0069,6.68E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,V,FALSE,8.0138,7E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,V,FALSE,11.9862,7.49E+06,FALSE,Replete, Micromonas pusilla
+Slagter2016a,V,FALSE,16.0276,1.22E+07,FALSE,Replete, Micromonas pusilla
+Slagter2016a,V,FALSE,24.0312,4.13E+07,FALSE,Replete, Micromonas pusilla
+Slagter2016a,V,FALSE,27.9231,5.77E+07,FALSE,Replete, Micromonas pusilla
+Slagter2016a,V,FALSE,32.0105,8E+07,FALSE,Replete, Micromonas pusilla
+Slagter2016a,V,FALSE,35.9028,9.4E+07,FALSE,Replete, Micromonas pusilla
+Slagter2016a,V,FALSE,39.9903,1.16E+08,FALSE,Replete, Micromonas pusilla
+Slagter2016a,V,FALSE,44.0053,1.06E+08,FALSE,Replete, Micromonas pusilla
+Slagter2016a,V,FALSE,47.9395,1.07E+08,FALSE,Replete, Micromonas pusilla
+Slagter2016a,V,FALSE,51.9527,1.07E+08,FALSE,Replete, Micromonas pusilla
+Slagter2016a,V,FALSE,55.967,1E+08,FALSE,Replete, Micromonas pusilla
+Slagter2016a,V,FALSE,60.0197,9.99E+07,FALSE,Replete, Micromonas pusilla
+Slagter2016a,H,FALSE,0.0159,1.19E+06,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,FALSE,3.9944,9.52E+05,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,FALSE,7.964,1.16E+06,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,FALSE,12.1366,1.06E+06,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,FALSE,15.9952,9.05E+05,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,FALSE,20.0793,1.3E+06,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,FALSE,24.0113,1.42E+06,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,FALSE,27.9459,1.41E+06,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,FALSE,32.0065,1E+06,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,FALSE,36.018,1.08E+06,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,FALSE,39.9977,7.84E+05,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,FALSE,43.9736,6.74E+05,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,FALSE,47.9952,2.46E+05,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,FALSE,51.9325,95419.8473,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,FALSE,55.9472,16539.4402,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,FALSE,59.6852,3816.7939,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,V,FALSE,0.0431,1.61E+07,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,V,FALSE,4.0937,1.56E+07,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,V,FALSE,8.0325,1.52E+07,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,V,FALSE,12.0156,2.95E+07,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,V,FALSE,16.0811,8.77E+07,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,V,FALSE,20.0308,1.61E+08,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,V,FALSE,24.108,2.06E+08,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,V,FALSE,28.0883,2.33E+08,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,V,FALSE,32.1011,2.69E+08,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,V,FALSE,36.1786,3.24E+08,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,V,FALSE,44.2339,3.28E+08,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,V,FALSE,48.246,3.46E+08,FALSE,Fe limited, Micromonas pusilla
+Slagter2016a,H,FALSE,0,8.66E+05,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,4.0601,1.06E+06,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,8.0243,8.39E+05,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,12.0524,7.04E+05,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,16.0806,5.86E+05,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,20.0448,5.55E+05,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,24.0729,3.33E+05,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,28.0691,8.19E+04,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,32.1292,2.56E+03,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,36.0934,3.26E+03,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,40.1854,1.63E+03,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,44.2455,0E+00,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,48.1458,0,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,4.71E-04,1.47E+07,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,4.0956,2.69E+07,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,8.0628,4.3E+07,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,12.0363,2.55E+08,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,16.0705,3.64E+08,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,20.1048,4.78E+08,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,24.1039,4.88E+08,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,28.0395,5.13E+08,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,32.042,6.34E+08,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,36.0759,7.33E+08,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,44.101,5.98E+08,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,48.1629,5.72E+08,FALSE,"Replete host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,0.0135,8.46E+05,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,4.0502,1.06E+06,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,8.0181,9.71E+05,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,12.0184,9.12E+05,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,15.9854,7.68E+05,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,20.0174,6.9E+05,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,23.984,5.23E+05,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,28.0171,5.06E+05,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,32.0788,2.85E+05,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,36.0458,1.42E+05,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,40.047,1.37E+05,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,44.0479,1.1E+05,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,H,FALSE,48.1125,69230.7692,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,0.0692,1.83E+07,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,4.0698,1.06E+07,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,8.058,1.83E+07,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,12.0291,4.75E+07,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,16.0496,1.06E+08,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,20.0624,1.43E+08,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,24.1068,1.66E+08,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,28.0869,1.88E+08,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,32.195,1.97E+08,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,40.2177,1.83E+08,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,44.1969,1.77E+08,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Slagter2016a,V,FALSE,48.2741,2.2E+08,FALSE,"Fe limited host, Fe limited vius", Micromonas pusilla
+Maat2016a,H,TRUE,0,2.86E+05,FALSE,N limited, Phaeocystis globosa
+Maat2016a,H,TRUE,5.9861,3.07E+05,FALSE,N limited, Phaeocystis globosa
+Maat2016a,H,TRUE,12.0257,2.78E+05,FALSE,N limited, Phaeocystis globosa
+Maat2016a,H,TRUE,18.0652,2.86E+05,FALSE,N limited, Phaeocystis globosa
+Maat2016a,H,TRUE,24.1048,3.22E+05,FALSE,N limited, Phaeocystis globosa
+Maat2016a,H,TRUE,30.1443,3.35E+05,FALSE,N limited, Phaeocystis globosa
+Maat2016a,H,TRUE,36.1839,3.27E+05,FALSE,N limited, Phaeocystis globosa
+Maat2016a,H,TRUE,48.2095,3.07E+05,FALSE,N limited, Phaeocystis globosa
+Maat2016a,H,TRUE,72.3143,3.02E+05,FALSE,N limited, Phaeocystis globosa
+Maat2016a,H,TRUE,96.3656,2.93E+05,FALSE,N limited, Phaeocystis globosa
+Maat2016a,H,FALSE,0,2.93E+05,FALSE,N limited, Phaeocystis globosa
+Maat2016a,H,FALSE,5.972,3.09E+05,FALSE,N limited, Phaeocystis globosa
+Maat2016a,H,FALSE,12.0049,2.71E+05,FALSE,N limited, Phaeocystis globosa
+Maat2016a,H,FALSE,18.0073,2.64E+05,FALSE,N limited, Phaeocystis globosa
+Maat2016a,H,FALSE,24.0402,2.61E+05,FALSE,N limited, Phaeocystis globosa
+Maat2016a,H,FALSE,30.0427,2.38E+05,FALSE,N limited, Phaeocystis globosa
+Maat2016a,H,FALSE,36.0451,2.1E+05,FALSE,N limited, Phaeocystis globosa
+Maat2016a,H,FALSE,48.0195,1.37E+05,FALSE,N limited, Phaeocystis globosa
+Maat2016a,H,FALSE,72.0597,25337.8378,FALSE,N limited, Phaeocystis globosa
+Maat2016a,H,FALSE,96.0085,9712.8378,FALSE,N limited, Phaeocystis globosa
+Maat2016a,V,FALSE,0.061,3.39E+06,FALSE,N limited, Phaeocystis globosa
+Maat2016a,V,FALSE,3.0183,3.07E+06,FALSE,N limited, Phaeocystis globosa
+Maat2016a,V,FALSE,6.0671,2.53E+06,FALSE,N limited, Phaeocystis globosa
+Maat2016a,V,FALSE,8.9634,2.64E+06,FALSE,N limited, Phaeocystis globosa
+Maat2016a,V,FALSE,12.0427,2.63E+06,FALSE,N limited, Phaeocystis globosa
+Maat2016a,V,FALSE,15.061,3.37E+06,FALSE,N limited, Phaeocystis globosa
+Maat2016a,V,FALSE,18.0488,5.17E+06,FALSE,N limited, Phaeocystis globosa
+Maat2016a,V,FALSE,24.0244,9.29E+06,FALSE,N limited, Phaeocystis globosa
+Maat2016a,V,FALSE,30.0305,1.17E+07,FALSE,N limited, Phaeocystis globosa
+Maat2016a,V,FALSE,36.0671,1.55E+07,FALSE,N limited, Phaeocystis globosa
+Maat2016a,V,FALSE,48.0793,1.78E+07,FALSE,N limited, Phaeocystis globosa
+Maat2016a,V,FALSE,72.0427,2.14E+07,FALSE,N limited, Phaeocystis globosa
+Maat2016a,V,FALSE,95.9756,1.94E+07,FALSE,N limited, Phaeocystis globosa
+Maat2016a,H,TRUE,0.0534,2.72E+05,FALSE,P limited, Phaeocystis globosa
+Maat2016a,H,TRUE,5.9861,3.11E+05,FALSE,P limited, Phaeocystis globosa
+Maat2016a,H,TRUE,12.0257,2.7E+05,FALSE,P limited, Phaeocystis globosa
+Maat2016a,H,TRUE,18.0652,2.81E+05,FALSE,P limited, Phaeocystis globosa
+Maat2016a,H,TRUE,24.1048,3.31E+05,FALSE,P limited, Phaeocystis globosa
+Maat2016a,H,TRUE,30.1443,3.3E+05,FALSE,P limited, Phaeocystis globosa
+Maat2016a,H,TRUE,36.1839,3.22E+05,FALSE,P limited, Phaeocystis globosa
+Maat2016a,H,TRUE,48.2095,3.12E+05,FALSE,P limited, Phaeocystis globosa
+Maat2016a,H,TRUE,72.3143,3.47E+05,FALSE,P limited, Phaeocystis globosa
+Maat2016a,H,TRUE,96.419,4.36E+05,FALSE,P limited, Phaeocystis globosa
+Maat2016a,H,FALSE,0.0534,2.82E+05,FALSE,P limited, Phaeocystis globosa
+Maat2016a,H,FALSE,5.9861,3.22E+05,FALSE,P limited, Phaeocystis globosa
+Maat2016a,H,FALSE,12.0257,2.67E+05,FALSE,P limited, Phaeocystis globosa
+Maat2016a,H,FALSE,18.0652,2.03E+05,FALSE,P limited, Phaeocystis globosa
+Maat2016a,H,FALSE,24.1048,1.93E+05,FALSE,P limited, Phaeocystis globosa
+Maat2016a,H,FALSE,30.1443,1.34E+05,FALSE,P limited, Phaeocystis globosa
+Maat2016a,H,FALSE,36.077,72803.3255,FALSE,P limited, Phaeocystis globosa
+Maat2016a,H,FALSE,48.2095,16056.2465,FALSE,P limited, Phaeocystis globosa
+Maat2016a,H,FALSE,72.3143,1256.6819,FALSE,P limited, Phaeocystis globosa
+Maat2016a,H,FALSE,96.419,448.2808,FALSE,P limited, Phaeocystis globosa
+Maat2016a,V,FALSE,0.061,6.35E+06,FALSE,P limited, Phaeocystis globosa
+Maat2016a,V,FALSE,3.0793,5.93E+06,FALSE,P limited, Phaeocystis globosa
+Maat2016a,V,FALSE,6.0671,5.39E+06,FALSE,P limited, Phaeocystis globosa
+Maat2016a,V,FALSE,9.0854,5.6E+06,FALSE,P limited, Phaeocystis globosa
+Maat2016a,V,FALSE,12.0732,5.81E+06,FALSE,P limited, Phaeocystis globosa
+Maat2016a,V,FALSE,15.061,7.82E+06,FALSE,P limited, Phaeocystis globosa
+Maat2016a,V,FALSE,18.0488,1.05E+07,FALSE,P limited, Phaeocystis globosa
+Maat2016a,V,FALSE,24.0854,2.69E+07,FALSE,P limited, Phaeocystis globosa
+Maat2016a,V,FALSE,30.061,4.32E+07,FALSE,P limited, Phaeocystis globosa
+Maat2016a,V,FALSE,36.0671,5.56E+07,FALSE,P limited, Phaeocystis globosa
+Maat2016a,V,FALSE,48.0793,6.8E+07,FALSE,P limited, Phaeocystis globosa
+Maat2016a,V,FALSE,72.0427,7.93E+07,FALSE,P limited, Phaeocystis globosa
+Maat2016a,V,FALSE,96.0061,6.99E+07,FALSE,P limited, Phaeocystis globosa
+Maat2016a,H,TRUE,2.47E-03,2.44E+05,FALSE,Replete, Phaeocystis globosa
+Maat2016a,H,TRUE,5.971,2.67E+05,FALSE,Replete, Phaeocystis globosa
+Maat2016a,H,TRUE,11.9392,2.51E+05,FALSE,Replete, Phaeocystis globosa
+Maat2016a,H,TRUE,17.971,5.17E+05,FALSE,Replete, Phaeocystis globosa
+Maat2016a,H,TRUE,24.0041,8.81E+05,FALSE,Replete, Phaeocystis globosa
+Maat2016a,H,TRUE,29.9727,9.19E+05,FALSE,Replete, Phaeocystis globosa
+Maat2016a,H,TRUE,36.0015,8.71E+05,FALSE,Replete, Phaeocystis globosa
+Maat2016a,H,TRUE,48.0094,1.89E+06,FALSE,Replete, Phaeocystis globosa
+Maat2016a,H,TRUE,72.0415,2.53E+06,FALSE,Replete, Phaeocystis globosa
+Maat2016a,H,FALSE,2.47E-03,2.44E+05,FALSE,Replete, Phaeocystis globosa
+Maat2016a,H,FALSE,5.9708,2.45E+05,FALSE,Replete, Phaeocystis globosa
+Maat2016a,H,FALSE,11.9388,2.2E+05,FALSE,Replete, Phaeocystis globosa
+Maat2016a,H,FALSE,17.9375,2.03E+05,FALSE,Replete, Phaeocystis globosa
+Maat2016a,H,FALSE,23.9665,1.78E+05,FALSE,Replete, Phaeocystis globosa
+Maat2016a,H,FALSE,29.9946,72335.0254,FALSE,Replete, Phaeocystis globosa
+Maat2016a,H,FALSE,35.9928,8883.2487,FALSE,Replete, Phaeocystis globosa
+Maat2016a,H,FALSE,48.0207,1269.0355,FALSE,Replete, Phaeocystis globosa
+Maat2016a,H,FALSE,72.0158,1269.0355,FALSE,Replete, Phaeocystis globosa
+Maat2016a,H,FALSE,95.9805,1269.0355,FALSE,Replete, Phaeocystis globosa
+Maat2016a,V,FALSE,0,6.78E+06,FALSE,Replete, Phaeocystis globosa
+Maat2016a,V,FALSE,3.0793,6.77E+06,FALSE,Replete, Phaeocystis globosa
+Maat2016a,V,FALSE,6.0671,5.61E+06,FALSE,Replete, Phaeocystis globosa
+Maat2016a,V,FALSE,9.0549,5.92E+06,FALSE,Replete, Phaeocystis globosa
+Maat2016a,V,FALSE,12.0732,1.04E+07,FALSE,Replete, Phaeocystis globosa
+Maat2016a,V,FALSE,15.1219,2.86E+07,FALSE,Replete, Phaeocystis globosa
+Maat2016a,V,FALSE,18.1098,3.93E+07,FALSE,Replete, Phaeocystis globosa
+Maat2016a,V,FALSE,24.0854,9.08E+07,FALSE,Replete, Phaeocystis globosa
+Maat2016a,V,FALSE,30.1219,1.97E+08,FALSE,Replete, Phaeocystis globosa
+Maat2016a,V,FALSE,36.0671,1.97E+08,FALSE,Replete, Phaeocystis globosa
+Maat2016a,V,FALSE,48.0793,1.94E+08,FALSE,Replete, Phaeocystis globosa
+Maat2016a,V,FALSE,72.0732,2.23E+08,FALSE,Replete, Phaeocystis globosa
+Maat2016a,V,FALSE,96.0061,2.25E+08,FALSE,Replete, Phaeocystis globosa
+Maat2016a,H,TRUE,0,2.99E+05,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,H,TRUE,6.0024,3.06E+05,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,H,TRUE,12.0049,2.79E+05,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,H,TRUE,17.9768,2.94E+05,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,H,TRUE,24.0402,3E+05,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,H,TRUE,30.0122,3.07E+05,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,H,TRUE,35.9842,3.16E+05,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,H,TRUE,48.05,2.94E+05,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,H,TRUE,72.0902,2.91E+05,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,H,TRUE,96.0085,2.88E+05,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,H,FALSE,0,2.37E+05,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,H,FALSE,6.0024,3.06E+05,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,H,FALSE,12.0049,2.69E+05,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,H,FALSE,18.0073,2.22E+05,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,H,FALSE,24.0098,2.15E+05,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,H,FALSE,30.0122,1.9E+05,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,H,FALSE,36.0146,1.44E+05,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,H,FALSE,48.0804,1.27E+05,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,H,FALSE,72.0597,15625,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,H,FALSE,96.1304,5489.8649,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,V,FALSE,0.0915,4.76E+06,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,V,FALSE,3.1098,4.34E+06,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,V,FALSE,6.128,4.33E+06,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,V,FALSE,9.0854,4.33E+06,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,V,FALSE,12.0732,4.33E+06,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,V,FALSE,15.0915,4.96E+06,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,V,FALSE,18.0793,6.76E+06,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,V,FALSE,24.1159,1.16E+07,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,V,FALSE,30.0915,1.23E+07,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,V,FALSE,36.0976,1.47E+07,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,V,FALSE,48.1098,1.54E+07,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,V,FALSE,72.0732,1.95E+07,FALSE,NP limited, Phaeocystis globosa
+Maat2016a,V,FALSE,96.0061,1.86E+07,FALSE,NP limited, Phaeocystis globosa
+Maat2016b,H,TRUE,0.0402,1.5E+06,FALSE,N limited, Micromonas pusilla
+Maat2016b,H,TRUE,5.9577,1.68E+06,FALSE,N limited, Micromonas pusilla
+Maat2016b,H,TRUE,11.9344,1.69E+06,FALSE,N limited, Micromonas pusilla
+Maat2016b,H,TRUE,18.0262,1.72E+06,FALSE,N limited, Micromonas pusilla
+Maat2016b,H,TRUE,24.0017,1.85E+06,FALSE,N limited, Micromonas pusilla
+Maat2016b,H,TRUE,29.9769,2.01E+06,FALSE,N limited, Micromonas pusilla
+Maat2016b,H,TRUE,36.0116,1.99E+06,FALSE,N limited, Micromonas pusilla
+Maat2016b,H,TRUE,47.9662,1.94E+06,FALSE,N limited, Micromonas pusilla
+Maat2016b,H,TRUE,71.9887,1.98E+06,FALSE,N limited, Micromonas pusilla
+Maat2016b,H,FALSE,0.0575,1.29E+06,FALSE,N limited, Micromonas pusilla
+Maat2016b,H,FALSE,6.0345,1.46E+06,FALSE,N limited, Micromonas pusilla
+Maat2016b,H,FALSE,12.069,1.64E+06,FALSE,N limited, Micromonas pusilla
+Maat2016b,H,FALSE,18.046,8.88E+05,FALSE,N limited, Micromonas pusilla
+Maat2016b,H,FALSE,24.0805,5.44E+05,FALSE,N limited, Micromonas pusilla
+Maat2016b,H,FALSE,30.1149,3.2E+05,FALSE,N limited, Micromonas pusilla
+Maat2016b,H,FALSE,36.092,1.8E+05,FALSE,N limited, Micromonas pusilla
+Maat2016b,H,FALSE,48.046,43775.376,FALSE,N limited, Micromonas pusilla
+Maat2016b,H,FALSE,72.069,20886.9445,FALSE,N limited, Micromonas pusilla
+Maat2016b,V,FALSE,0,6.5E+06,FALSE,N limited, Micromonas pusilla
+Maat2016b,V,FALSE,3.0321,6.9E+06,FALSE,N limited, Micromonas pusilla
+Maat2016b,V,FALSE,6.0641,6.7E+06,FALSE,N limited, Micromonas pusilla
+Maat2016b,V,FALSE,9.0379,7.51E+06,FALSE,N limited, Micromonas pusilla
+Maat2016b,V,FALSE,12.07,2.05E+07,FALSE,N limited, Micromonas pusilla
+Maat2016b,V,FALSE,14.9854,4.2E+07,FALSE,N limited, Micromonas pusilla
+Maat2016b,V,FALSE,18.0758,7.59E+07,FALSE,N limited, Micromonas pusilla
+Maat2016b,V,FALSE,24.0233,9.58E+07,FALSE,N limited, Micromonas pusilla
+Maat2016b,V,FALSE,30.0292,1.31E+08,FALSE,N limited, Micromonas pusilla
+Maat2016b,V,FALSE,35.9767,1.24E+08,FALSE,N limited, Micromonas pusilla
+Maat2016b,V,FALSE,47.9883,1.25E+08,FALSE,N limited, Micromonas pusilla
+Maat2016b,V,FALSE,71.895,9.67E+07,FALSE,N limited, Micromonas pusilla
+Maat2016b,H,TRUE,0.0448,1.1E+06,FALSE,P limited, Micromonas pusilla
+Maat2016b,H,TRUE,6.0199,1.27E+06,FALSE,P limited, Micromonas pusilla
+Maat2016b,H,TRUE,11.9984,1.14E+06,FALSE,P limited, Micromonas pusilla
+Maat2016b,H,TRUE,17.9736,1.3E+06,FALSE,P limited, Micromonas pusilla
+Maat2016b,H,TRUE,24.0077,1.33E+06,FALSE,P limited, Micromonas pusilla
+Maat2016b,H,TRUE,30.0409,1.44E+06,FALSE,P limited, Micromonas pusilla
+Maat2016b,H,TRUE,36.0755,1.43E+06,FALSE,P limited, Micromonas pusilla
+Maat2016b,H,TRUE,47.9748,1.2E+06,FALSE,P limited, Micromonas pusilla
+Maat2016b,H,TRUE,72.0552,1.2E+06,FALSE,P limited, Micromonas pusilla
+Maat2016b,H,FALSE,0.0458,1.01E+06,FALSE,P limited, Micromonas pusilla
+Maat2016b,H,FALSE,5.9637,1.16E+06,FALSE,P limited, Micromonas pusilla
+Maat2016b,H,FALSE,12,1E+06,FALSE,P limited, Micromonas pusilla
+Maat2016b,H,FALSE,18.0376,7.33E+05,FALSE,P limited, Micromonas pusilla
+Maat2016b,H,FALSE,24.0189,3.54E+05,FALSE,P limited, Micromonas pusilla
+Maat2016b,H,FALSE,30.0559,1.35E+05,FALSE,P limited, Micromonas pusilla
+Maat2016b,H,FALSE,36.0339,54835.4935,FALSE,P limited, Micromonas pusilla
+Maat2016b,H,FALSE,47.9884,9970.0897,FALSE,P limited, Micromonas pusilla
+Maat2016b,H,FALSE,72.0114,4985.0449,FALSE,P limited, Micromonas pusilla
+Maat2016b,V,FALSE,0.0117,7.99E+06,FALSE,P limited, Micromonas pusilla
+Maat2016b,V,FALSE,2.9998,7.46E+06,FALSE,P limited, Micromonas pusilla
+Maat2016b,V,FALSE,6.0007,6.81E+06,FALSE,P limited, Micromonas pusilla
+Maat2016b,V,FALSE,9.0014,7.83E+06,FALSE,P limited, Micromonas pusilla
+Maat2016b,V,FALSE,12.0002,2.37E+07,FALSE,P limited, Micromonas pusilla
+Maat2016b,V,FALSE,15.0105,4.93E+07,FALSE,P limited, Micromonas pusilla
+Maat2016b,V,FALSE,17.9788,8.76E+07,FALSE,P limited, Micromonas pusilla
+Maat2016b,V,FALSE,24.0019,8.66E+07,FALSE,P limited, Micromonas pusilla
+Maat2016b,V,FALSE,30.0271,9.27E+07,FALSE,P limited, Micromonas pusilla
+Maat2016b,V,FALSE,35.9918,9.19E+07,FALSE,P limited, Micromonas pusilla
+Maat2016b,V,FALSE,48.0364,8.44E+07,FALSE,P limited, Micromonas pusilla
+Maat2016b,V,FALSE,72.0112,7.85E+07,FALSE,P limited, Micromonas pusilla
+Maat2016b,H,TRUE,-0.0715,1.22E+06,FALSE,NP limited, Micromonas pusilla
+Maat2016b,H,TRUE,6.0195,1.31E+06,FALSE,NP limited, Micromonas pusilla
+Maat2016b,H,TRUE,11.9964,1.32E+06,FALSE,NP limited, Micromonas pusilla
+Maat2016b,H,TRUE,18.0319,1.22E+06,FALSE,NP limited, Micromonas pusilla
+Maat2016b,H,TRUE,24.0062,1.46E+06,FALSE,NP limited, Micromonas pusilla
+Maat2016b,H,TRUE,30.0401,1.52E+06,FALSE,NP limited, Micromonas pusilla
+Maat2016b,H,TRUE,36.075,1.48E+06,FALSE,NP limited, Micromonas pusilla
+Maat2016b,H,TRUE,47.9725,1.39E+06,FALSE,NP limited, Micromonas pusilla
+Maat2016b,H,TRUE,71.9927,1.64E+06,FALSE,NP limited, Micromonas pusilla
+Maat2016b,H,FALSE,0.0458,1.01E+06,FALSE,NP limited, Micromonas pusilla
+Maat2016b,H,FALSE,5.9637,1.16E+06,FALSE,NP limited, Micromonas pusilla
+Maat2016b,H,FALSE,12,1E+06,FALSE,NP limited, Micromonas pusilla
+Maat2016b,H,FALSE,18.0376,7.33E+05,FALSE,NP limited, Micromonas pusilla
+Maat2016b,H,FALSE,24.0189,3.54E+05,FALSE,NP limited, Micromonas pusilla
+Maat2016b,H,FALSE,30.0559,1.35E+05,FALSE,NP limited, Micromonas pusilla
+Maat2016b,H,FALSE,36.0339,54835.4935,FALSE,NP limited, Micromonas pusilla
+Maat2016b,H,FALSE,47.9884,9970.0897,FALSE,NP limited, Micromonas pusilla
+Maat2016b,H,FALSE,72.0114,4985.0449,FALSE,NP limited, Micromonas pusilla
+Maat2016b,V,FALSE,0.0115,9.77E+06,FALSE,NP limited, Micromonas pusilla
+Maat2016b,V,FALSE,2.9996,9.01E+06,FALSE,NP limited, Micromonas pusilla
+Maat2016b,V,FALSE,6.0134,7.7E+06,FALSE,NP limited, Micromonas pusilla
+Maat2016b,V,FALSE,9.0012,9.61E+06,FALSE,NP limited, Micromonas pusilla
+Maat2016b,V,FALSE,11.999,3.18E+07,FALSE,NP limited, Micromonas pusilla
+Maat2016b,V,FALSE,14.9973,5.24E+07,FALSE,NP limited, Micromonas pusilla
+Maat2016b,V,FALSE,17.9779,8.44E+07,FALSE,NP limited, Micromonas pusilla
+Maat2016b,V,FALSE,24.0006,8.19E+07,FALSE,NP limited, Micromonas pusilla
+Maat2016b,V,FALSE,30.0886,1.03E+08,FALSE,NP limited, Micromonas pusilla
+Maat2016b,V,FALSE,35.9979,1.13E+08,FALSE,NP limited, Micromonas pusilla
+Maat2016b,V,FALSE,48.0414,1.01E+08,FALSE,NP limited, Micromonas pusilla
+Maat2016b,V,FALSE,72.0168,9.74E+07,FALSE,NP limited, Micromonas pusilla
+Maat2016b,H,TRUE,0,6.78E+05,FALSE,Replete, Micromonas pusilla
+Maat2016b,H,TRUE,6.0215,8.37E+05,FALSE,Replete, Micromonas pusilla
+Maat2016b,H,TRUE,11.9857,7.46E+05,FALSE,Replete, Micromonas pusilla
+Maat2016b,H,TRUE,18.0072,1.46E+06,FALSE,Replete, Micromonas pusilla
+Maat2016b,H,TRUE,23.9713,1.71E+06,FALSE,Replete, Micromonas pusilla
+Maat2016b,H,TRUE,29.9928,2.27E+06,FALSE,Replete, Micromonas pusilla
+Maat2016b,H,TRUE,36.0143,2.63E+06,FALSE,Replete, Micromonas pusilla
+Maat2016b,H,TRUE,47.9426,4.43E+06,FALSE,Replete, Micromonas pusilla
+Maat2016b,H,TRUE,71.9713,8.63E+06,FALSE,Replete, Micromonas pusilla
+Maat2016b,H,FALSE,0,7.78E+05,FALSE,Replete, Micromonas pusilla
+Maat2016b,H,FALSE,5.9642,7.87E+05,FALSE,Replete, Micromonas pusilla
+Maat2016b,H,FALSE,11.9857,5.67E+05,FALSE,Replete, Micromonas pusilla
+Maat2016b,H,FALSE,18.0072,5.76E+05,FALSE,Replete, Micromonas pusilla
+Maat2016b,H,FALSE,23.9713,3.36E+05,FALSE,Replete, Micromonas pusilla
+Maat2016b,H,FALSE,29.9928,1.06E+05,FALSE,Replete, Micromonas pusilla
+Maat2016b,H,FALSE,35.9569,25429.0891,FALSE,Replete, Micromonas pusilla
+Maat2016b,H,FALSE,47.9426,3995.1829,FALSE,Replete, Micromonas pusilla
+Maat2016b,V,FALSE,1.38E-03,5.42E+06,FALSE,Replete, Micromonas pusilla
+Maat2016b,V,FALSE,3.0124,5E+06,FALSE,Replete, Micromonas pusilla
+Maat2016b,V,FALSE,6.0109,5.13E+06,FALSE,Replete, Micromonas pusilla
+Maat2016b,V,FALSE,9.0109,1.15E+07,FALSE,Replete, Micromonas pusilla
+Maat2016b,V,FALSE,15.0255,8.13E+07,FALSE,Replete, Micromonas pusilla
+Maat2016b,V,FALSE,18.0429,1.07E+08,FALSE,Replete, Micromonas pusilla
+Maat2016b,V,FALSE,24.0133,1.25E+08,FALSE,Replete, Micromonas pusilla
+Maat2016b,V,FALSE,30.0347,1.19E+08,FALSE,Replete, Micromonas pusilla
+Maat2016b,V,FALSE,36.06,1.25E+08,FALSE,Replete, Micromonas pusilla
+Maat2016b,V,FALSE,48.0526,1.4E+08,FALSE,Replete, Micromonas pusilla
+Maat2016b,V,FALSE,72.0864,1.35E+08,FALSE,Replete, Micromonas pusilla
+Kranzler2021,H,FALSE,0,500000,FALSE,Replete,Chaetoceros tenuissimus
+Kranzler2021,H,FALSE,24,1171006.499,FALSE,Replete,Chaetoceros tenuissimus
+Kranzler2021,H,FALSE,48,2202909.831,FALSE,Replete,Chaetoceros tenuissimus
+Kranzler2021,H,FALSE,120,2373691.1,FALSE,Replete,Chaetoceros tenuissimus
+Kranzler2021,H,FALSE,144,797869.8946,FALSE,Replete,Chaetoceros tenuissimus
+Kranzler2021,H,FALSE,168,145376.4994,FALSE,Replete,Chaetoceros tenuissimus
+Kranzler2021,H,FALSE,192,39.41320252,FALSE,Replete,Chaetoceros tenuissimus
+Kranzler2021,H,FALSE,216,1,FALSE,Replete,Chaetoceros tenuissimus
+Kranzler2021,H,FALSE,288,1,FALSE,Replete,Chaetoceros tenuissimus
+Kranzler2021,V,FALSE,0,7500000,FALSE,Replete,Chaetoceros tenuissimus
+Kranzler2021,V,FALSE,48,5387518206,FALSE,Replete,Chaetoceros tenuissimus
+Kranzler2021,V,FALSE,192,61583760166,FALSE,Replete,Chaetoceros tenuissimus
+Kranzler2021,H,FALSE,0,500000,FALSE,Fe limited,Chaetoceros tenuissimus
+Kranzler2021,H,FALSE,24,778683.9882,FALSE,Fe limited,Chaetoceros tenuissimus
+Kranzler2021,H,FALSE,48,1062756.866,FALSE,Fe limited,Chaetoceros tenuissimus
+Kranzler2021,H,FALSE,120,1501841.51,FALSE,Fe limited,Chaetoceros tenuissimus
+Kranzler2021,H,FALSE,144,1410150.582,FALSE,Fe limited,Chaetoceros tenuissimus
+Kranzler2021,H,FALSE,168,1330922.699,FALSE,Fe limited,Chaetoceros tenuissimus
+Kranzler2021,H,FALSE,192,976265.786,FALSE,Fe limited,Chaetoceros tenuissimus
+Kranzler2021,H,FALSE,216,757958.4466,FALSE,Fe limited,Chaetoceros tenuissimus
+Kranzler2021,H,FALSE,288,230665.6302,FALSE,Fe limited,Chaetoceros tenuissimus
+Kranzler2021,V,FALSE,0,7500000,FALSE,Fe limited,Chaetoceros tenuissimus
+Kranzler2021,V,FALSE,48,58245879,FALSE,Fe limited,Chaetoceros tenuissimus
+Kranzler2021,V,FALSE,192,17163184030,FALSE,Fe limited,Chaetoceros tenuissimus
+Kranzler2021,V,FALSE,288,10198695881,FALSE,Fe limited,Chaetoceros tenuissimus
+Brussaard4a,H,FALSE,2.1634,1.78E+07,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,FALSE,6.0326,17959000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,FALSE,9.8973,2.04E+07,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,FALSE,13.627,18529000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,FALSE,17.0627,20525000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,FALSE,25.2764,22007000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,FALSE,29.1964,20525000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,FALSE,36.8444,18073000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,FALSE,40.1894,1.76E+07,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,FALSE,48.4205,9.92E+06,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,FALSE,52.2969,6271400,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,FALSE,56.1702,4275900,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,TRUE,0.0332,17690000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,TRUE,2.1632,17902000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,TRUE,6.0344,1.70E+07,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,TRUE,9.8941,22064000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,TRUE,17.056,24002000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,TRUE,25.2192,2.70E+07,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,TRUE,29.1335,28449000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,TRUE,36.861,3.44E+07,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,TRUE,40.1542,3.60E+07,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,TRUE,48.2656,40992000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,TRUE,52.1294,43957000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,H,TRUE,55.9988,43957000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,V,FALSE,2.1493,242870000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,V,FALSE,6.0612,254280000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,V,FALSE,9.8759,274800000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,V,FALSE,13.6985,254280000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,V,FALSE,17.1239,313570000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,V,FALSE,19.892,315850000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,V,FALSE,22.092,293040000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,V,FALSE,25.2328,343220000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,V,FALSE,29.1408,375140000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,V,FALSE,32.9559,393390000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,V,FALSE,36.7628,454960000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,V,FALSE,40.0888,5.35E+08,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,V,FALSE,44.849,603190000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,V,FALSE,48.1733,692130000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,V,FALSE,52.0739,762830000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4a,V,FALSE,55.8599,933870000,FALSE,Early Exponential,Micromonas Pusilla
+Brussaard4b,H,FALSE,-0.05,545060,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,H,FALSE,3.95,609320,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,H,FALSE,7.95,536130,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,H,FALSE,11.95,481830,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,H,FALSE,24,465000,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,H,FALSE,28.1,379790,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,H,FALSE,32.1,334090,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,H,FALSE,36.15,326190,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,H,FALSE,48.2,163320,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,H,FALSE,52.2,158850,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,H,TRUE,0,763280,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,H,TRUE,3.95,693510,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,H,TRUE,7.95,756060,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,H,TRUE,12,803140,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,H,TRUE,24,968440,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,H,TRUE,28.05,950230,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,H,TRUE,32.1,885640,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,H,TRUE,36.1,1090800,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,H,TRUE,48.15,1043000,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,H,TRUE,52.15,1251600,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,V,FALSE,0,44369000,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,V,FALSE,3.95,43750000,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,V,FALSE,7.95,37290000,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,V,FALSE,11.95,35125000,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,V,FALSE,23.95,52513000,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,V,FALSE,28.1,57223000,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,V,FALSE,32.05,65539000,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,V,FALSE,36.15,82791000,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,V,FALSE,48.15,92619000,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,V,FALSE,52.25,109700000,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4b,V,FALSE,56.15,130390000,FALSE,Early Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,FALSE,-0.1288,458640,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,FALSE,3.8424,482470,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,FALSE,7.8711,427250,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,FALSE,11.8794,576510,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,FALSE,15.9526,572840,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,FALSE,23.9627,438360,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,FALSE,27.88,5.03E+05,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,FALSE,31.8913,623470,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,FALSE,35.9157,611220,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,FALSE,39.9891,604110,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,FALSE,48.0147,314990,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,FALSE,52.0896,294140,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,FALSE,56.1613,305930,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,TRUE,-0.1269,439740,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,TRUE,3.9294,606170,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,TRUE,7.8557,581890,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,TRUE,11.866,710530,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,TRUE,15.892,682810,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,TRUE,23.8824,745920,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,TRUE,27.9202,599650,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,TRUE,31.9333,700790,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,TRUE,35.8018,757270,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,TRUE,39.9276,724390,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,TRUE,48.0015,447290,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,TRUE,52.0708,483140,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,H,TRUE,56.0889,534460,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,V,FALSE,5.58E-03,10640000,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,V,FALSE,3.9296,10446000,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,V,FALSE,7.9009,12657000,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,V,FALSE,13.9567,16402000,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,V,FALSE,15.9851,24466000,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,V,FALSE,21.9336,36459000,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,V,FALSE,23.9623,44180000,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,V,FALSE,28.0311,48280000,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,V,FALSE,31.8956,58052000,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,V,FALSE,35.9005,76414000,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,V,FALSE,39.9694,80342000,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,V,FALSE,45.9617,98177000,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,V,FALSE,48.009,87169000,FALSE,Late Exponential,Phaeocystis Pouchetii
+Brussaard4c,V,FALSE,56.0138,129050000,FALSE,Late Exponential,Phaeocystis Pouchetii
+Maat3A,H,TRUE,-0.0489,260020,FALSE,,Micromonas Polaris
+Maat3A,H,TRUE,23.9122,497320,FALSE,,Micromonas Polaris
+Maat3A,H,TRUE,51.1816,1081100,FALSE,,Micromonas Polaris
+Maat3A,H,TRUE,75.1522,2238900,FALSE,,Micromonas Polaris
+Maat3A,H,TRUE,99.1317,4257400,FALSE,,Micromonas Polaris
+Maat3A,H,TRUE,0.0874,250270,FALSE,,Micromonas Polaris
+Maat3A,H,TRUE,24.083,484560,FALSE,,Micromonas Polaris
+Maat3A,H,TRUE,51.0151,1054300,FALSE,,Micromonas Polaris
+Maat3A,H,TRUE,75.1774,2231100,FALSE,,Micromonas Polaris
+Maat3A,H,TRUE,99.048,4265200,FALSE,,Micromonas Polaris
+Maat3A44T,H,FALSE,0.1062,244450,FALSE,44-T,Micromonas Polaris
+Maat3A44T,H,FALSE,23.94,456570,FALSE,44-T,Micromonas Polaris
+Maat3A44T,H,FALSE,51.1259,897820,FALSE,44-T,Micromonas Polaris
+Maat3A44T,H,FALSE,75.09,964110,FALSE,44-T,Micromonas Polaris
+Maat3A44T,H,FALSE,99.1793,667130,FALSE,44-T,Micromonas Polaris
+Maat3A44T,H,FALSE,118.0511,513400,FALSE,44-T,Micromonas Polaris
+Maat3A44T,H,FALSE,144.1459,110940,FALSE,44-T,Micromonas Polaris
+Maat3A44T,H,FALSE,166.0991,56152.504,FALSE,44-T,Micromonas Polaris
+Maat3A44T,H,FALSE,190.1941,47.878,FALSE,44-T,Micromonas Polaris
+Maat3B44T,V,FALSE,0.1016,16260000,FALSE,44-T,Micromonas Polaris
+Maat3B44T,V,FALSE,7.9893,15491000,FALSE,44-T,Micromonas Polaris
+Maat3B44T,V,FALSE,16.1442,13606000,FALSE,44-T,Micromonas Polaris
+Maat3B44T,V,FALSE,24.032,15067000,FALSE,44-T,Micromonas Polaris
+Maat3B44T,V,FALSE,30.048,13932000,FALSE,44-T,Micromonas Polaris
+Maat3B44T,V,FALSE,51.0378,20554000,FALSE,44-T,Micromonas Polaris
+Maat3B44T,V,FALSE,75.104,45005000,FALSE,44-T,Micromonas Polaris
+Maat3B44T,V,FALSE,99.0391,100310000,FALSE,44-T,Micromonas Polaris
+Maat3B44T,V,FALSE,118.0299,182010000,FALSE,44-T,Micromonas Polaris
+Maat3B44T,V,FALSE,143.9731,270750000,FALSE,44-T,Micromonas Polaris
+Maat3B44T,V,FALSE,166.0301,248010000,FALSE,44-T,Micromonas Polaris
+Maat3B44T,V,FALSE,189.9576,212620000,FALSE,44-T,Micromonas Polaris
+Maat3A45T,H,FALSE,0.1057,223620,FALSE,45-T,Micromonas Polaris
+Maat3A45T,H,FALSE,24.0687,241730,FALSE,45-T,Micromonas Polaris
+Maat3A45T,H,FALSE,50.9731,106190,FALSE,45-T,Micromonas Polaris
+Maat3A45T,H,FALSE,75.0669,609.9963,FALSE,45-T,Micromonas Polaris
+Maat3A45T,H,FALSE,99.1633,492.3436,FALSE,45-T,Micromonas Polaris
+Maat3A45T,H,FALSE,118.0388,400.1824,FALSE,45-T,Micromonas Polaris
+Maat3B45T,V,FALSE,-0.0326,9570400,FALSE,45-T,Micromonas Polaris
+Maat3B45T,V,FALSE,8.1225,9543900,FALSE,45-T,Micromonas Polaris
+Maat3B45T,V,FALSE,16.0101,8774900,FALSE,45-T,Micromonas Polaris
+Maat3B45T,V,FALSE,24.0319,14324000,FALSE,45-T,Micromonas Polaris
+Maat3B45T,V,FALSE,30.0493,31401000,FALSE,45-T,Micromonas Polaris
+Maat3B45T,V,FALSE,51.0422,72587000,FALSE,45-T,Micromonas Polaris
+Maat3B45T,V,FALSE,74.9727,72880000,FALSE,45-T,Micromonas Polaris
+Maat3B45T,V,FALSE,99.0371,76519000,FALSE,45-T,Micromonas Polaris
+Maat3B45T,V,FALSE,118.1559,90208000,FALSE,45-T,Micromonas Polaris
+Maat3A46T,H,FALSE,0.1063,245760,FALSE,46-T,Micromonas Polaris
+Maat3A46T,H,FALSE,24.069,253450,FALSE,46-T,Micromonas Polaris
+Maat3A46T,H,FALSE,51.1072,116610,FALSE,46-T,Micromonas Polaris
+Maat3A46T,H,FALSE,75.0669,609.9963,FALSE,46-T,Micromonas Polaris
+Maat3A46T,H,FALSE,99.1633,492.3436,FALSE,46-T,Micromonas Polaris
+Maat3A46T,H,FALSE,118.0388,400.1824,FALSE,46-T,Micromonas Polaris
+Maat3B46T,V,FALSE,0.1006,3995000,FALSE,46-T,Micromonas Polaris
+Maat3B46T,V,FALSE,7.9883,3597700,FALSE,46-T,Micromonas Polaris
+Maat3B46T,V,FALSE,16.0096,2828300,FALSE,46-T,Micromonas Polaris
+Maat3B46T,V,FALSE,24.0316,9863800,FALSE,46-T,Micromonas Polaris
+Maat3B46T,V,FALSE,30.1826,25454000,FALSE,46-T,Micromonas Polaris
+Maat3B46T,V,FALSE,51.0406,53632000,FALSE,46-T,Micromonas Polaris
+Maat3B46T,V,FALSE,75.105,56527000,FALSE,46-T,Micromonas Polaris
+Maat3B46T,V,FALSE,99.0359,61652000,FALSE,46-T,Micromonas Polaris
+Maat3B46T,V,FALSE,118.0205,69396000,FALSE,46-T,Micromonas Polaris
+Maat3A47T,H,FALSE,0.1066,260080,FALSE,47-T,Micromonas Polaris
+Maat3A47T,H,FALSE,24.0694,270380,FALSE,47-T,Micromonas Polaris
+Maat3A47T,H,FALSE,51.1075,130930,FALSE,47-T,Micromonas Polaris
+Maat3A47T,H,FALSE,75.0669,609.9963,FALSE,47-T,Micromonas Polaris
+Maat3A47T,H,FALSE,99.1633,492.3436,FALSE,47-T,Micromonas Polaris
+Maat3A47T,H,FALSE,118.1727,1701.5514,FALSE,47-T,Micromonas Polaris
+Maat3B47T,V,FALSE,0.1006,4366700,FALSE,47-T,Micromonas Polaris
+Maat3B47T,V,FALSE,7.9883,3969400,FALSE,47-T,Micromonas Polaris
+Maat3B47T,V,FALSE,16.0097,3943300,FALSE,47-T,Micromonas Polaris
+Maat3B47T,V,FALSE,24.1651,7633400,FALSE,47-T,Micromonas Polaris
+Maat3B47T,V,FALSE,51.0407,55490000,FALSE,47-T,Micromonas Polaris
+Maat3B47T,V,FALSE,74.972,65447000,FALSE,47-T,Micromonas Polaris
+Maat3B47T,V,FALSE,99.0367,71687000,FALSE,47-T,Micromonas Polaris
+Maat3B47T,V,FALSE,118.0217,83519000,FALSE,47-T,Micromonas Polaris
+Maat5A0,H,TRUE,2.92E-03,203590,FALSE,0.5C,Micromonas Polaris
+Maat5A0,H,TRUE,24.0232,414370,FALSE,0.5C,Micromonas Polaris
+Maat5A0,H,TRUE,51.0555,565420,FALSE,0.5C,Micromonas Polaris
+Maat5A0,H,TRUE,74.9965,1255200,FALSE,0.5C,Micromonas Polaris
+Maat5A0,H,TRUE,98.9277,1262400,FALSE,0.5C,Micromonas Polaris
+Maat5A0,H,FALSE,0.0356,263810,FALSE,0.5C,Micromonas Polaris
+Maat5A0,H,FALSE,24.0493,238280,FALSE,0.5C,Micromonas Polaris
+Maat5A0,H,FALSE,51.0301,114520,FALSE,0.5C,Micromonas Polaris
+Maat5A0,H,FALSE,74.9928,50035.9093,FALSE,0.5C,Micromonas Polaris
+Maat5A0,H,FALSE,99.0553,4854.889,FALSE,0.5C,Micromonas Polaris
+Maat5B0,V,FALSE,0.0522,5344800,FALSE,0.5C,Micromonas Polaris
+Maat5B0,V,FALSE,8.0256,5114900,FALSE,0.5C,Micromonas Polaris
+Maat5B0,V,FALSE,16.0482,3908000,FALSE,0.5C,Micromonas Polaris
+Maat5B0,V,FALSE,24.0221,4597700,FALSE,0.5C,Micromonas Polaris
+Maat5B0,V,FALSE,30.0161,7471300,FALSE,0.5C,Micromonas Polaris
+Maat5B0,V,FALSE,51.0303,38621000,FALSE,0.5C,Micromonas Polaris
+Maat5B0,V,FALSE,75.0612,61092000,FALSE,0.5C,Micromonas Polaris
+Maat5B0,V,FALSE,99.0324,62931000,FALSE,0.5C,Micromonas Polaris
+Maat5A2,H,TRUE,2.58E-03,179640,FALSE,2.5C,Micromonas Polaris
+Maat5A2,H,TRUE,24.0222,348500,FALSE,2.5C,Micromonas Polaris
+Maat5A2,H,TRUE,50.9674,427690,FALSE,2.5C,Micromonas Polaris
+Maat5A2,H,TRUE,74.9964,1249300,FALSE,2.5C,Micromonas Polaris
+Maat5A2,H,TRUE,99.015,1346300,FALSE,2.5C,Micromonas Polaris
+Maat5A2,H,FALSE,-0.0125,198110,FALSE,2.5C,Micromonas Polaris
+Maat5A2,H,FALSE,24.0611,186710,FALSE,2.5C,Micromonas Polaris
+Maat5A2,H,FALSE,51.0505,66191.838,FALSE,2.5C,Micromonas Polaris
+Maat5A2,H,FALSE,75.0223,10735.7683,FALSE,2.5C,Micromonas Polaris
+Maat5A2,H,FALSE,99.0465,374.2879,FALSE,2.5C,Micromonas Polaris
+Maat5B2,V,FALSE,2.50E-03,5057500,FALSE,2.5C,Micromonas Polaris
+Maat5B2,V,FALSE,8.0751,5057500,FALSE,2.5C,Micromonas Polaris
+Maat5B2,V,FALSE,16.0481,3850600,FALSE,2.5C,Micromonas Polaris
+Maat5B2,V,FALSE,24.0724,6149400,FALSE,2.5C,Micromonas Polaris
+Maat5B2,V,FALSE,30.0673,10862000,FALSE,2.5C,Micromonas Polaris
+Maat5B2,V,FALSE,51.0827,44425000,FALSE,2.5C,Micromonas Polaris
+Maat5B2,V,FALSE,75.0588,56322000,FALSE,2.5C,Micromonas Polaris
+Maat5B2,V,FALSE,99.0279,53736000,FALSE,2.5C,Micromonas Polaris
+Maat5A3,H,TRUE,4.12E-03,287430,FALSE,3.5C,Micromonas Polaris
+Maat5A3,H,TRUE,24.0242,486230,FALSE,3.5C,Micromonas Polaris
+Maat5A3,H,TRUE,50.9733,840870,FALSE,3.5C,Micromonas Polaris
+Maat5A3,H,TRUE,75.0108,2255200,FALSE,3.5C,Micromonas Polaris
+Maat5A3,H,TRUE,98.9678,4052800,FALSE,3.5C,Micromonas Polaris
+Maat5A3,H,FALSE,0.0421,279690,FALSE,3.5C,Micromonas Polaris
+Maat5A3,H,FALSE,24.0147,237660,FALSE,3.5C,Micromonas Polaris
+Maat5A3,H,FALSE,51.0032,101650,FALSE,3.5C,Micromonas Polaris
+Maat5A3,H,FALSE,74.9736,24160.9673,FALSE,3.5C,Micromonas Polaris
+Maat5A3,H,FALSE,99.0465,374.2879,FALSE,3.5C,Micromonas Polaris
+Maat5B3,V,FALSE,0.0511,3218400,FALSE,3.5C,Micromonas Polaris
+Maat5B3,V,FALSE,8.0254,4712600,FALSE,3.5C,Micromonas Polaris
+Maat5B3,V,FALSE,16.0481,3735600,FALSE,3.5C,Micromonas Polaris
+Maat5B3,V,FALSE,24.0249,10287000,FALSE,3.5C,Micromonas Polaris
+Maat5B3,V,FALSE,30.0774,31322000,FALSE,3.5C,Micromonas Polaris
+Maat5B3,V,FALSE,51.0495,77414000,FALSE,3.5C,Micromonas Polaris
+Maat5B3,V,FALSE,75.0251,88276000,FALSE,3.5C,Micromonas Polaris
+Maat5B3,V,FALSE,99.0456,89483000,FALSE,3.5C,Micromonas Polaris
+Maat5A7,H,TRUE,-0.0834,185620,FALSE,7.0C,Micromonas Polaris
+Maat5A7,H,TRUE,24.0224,360480,FALSE,7.0C,Micromonas Polaris
+Maat5A7,H,TRUE,50.9726,786970,FALSE,7.0C,Micromonas Polaris
+Maat5A7,H,TRUE,75.0168,2668400,FALSE,7.0C,Micromonas Polaris
+Maat5A7,H,TRUE,99.0734,5418100,FALSE,7.0C,Micromonas Polaris
+Maat5A7,H,FALSE,0.0367,193290,FALSE,7.0C,Micromonas Polaris
+Maat5A7,H,FALSE,24.0583,142310,FALSE,7.0C,Micromonas Polaris
+Maat5A7,H,FALSE,51.0496,51734.008,FALSE,7.0C,Micromonas Polaris
+Maat5A7,H,FALSE,75.0217,752.9809,FALSE,7.0C,Micromonas Polaris
+Maat5A7,H,FALSE,98.9969,374.359,FALSE,7.0C,Micromonas Polaris
+Maat5B7,V,FALSE,0.0024763,5000000,FALSE,7.0C,Micromonas Polaris
+Maat5B7,V,FALSE,8.0255,4770100,FALSE,7.0C,Micromonas Polaris
+Maat5B7,V,FALSE,16.0487,5057500,FALSE,7.0C,Micromonas Polaris
+Maat5B7,V,FALSE,24.0274,15402000,FALSE,7.0C,Micromonas Polaris
+Maat5B7,V,FALSE,30.0306,36724000,FALSE,7.0C,Micromonas Polaris
+Maat5B7,V,FALSE,51.0893,57874000,FALSE,7.0C,Micromonas Polaris
+Maat5B7,V,FALSE,75.0125,62759000,FALSE,7.0C,Micromonas Polaris
+Maat5B7,V,FALSE,99.0323,62701000,FALSE,7.0C,Micromonas Polaris
+Maat3BHL,H,FALSE,0.077,971290,FALSE,P-Limited,Micromonas Pusilla
+Maat3BHL,H,FALSE,6.0584,898400,FALSE,P-Limited,Micromonas Pusilla
+Maat3BHL,H,FALSE,12.0369,902750,FALSE,P-Limited,Micromonas Pusilla
+Maat3BHL,H,FALSE,18.0228,712540,FALSE,P-Limited,Micromonas Pusilla
+Maat3BHL,H,FALSE,24.0161,324800,FALSE,P-Limited,Micromonas Pusilla
+Maat3BHL,H,FALSE,30,188060,FALSE,P-Limited,Micromonas Pusilla
+Maat3BHL,H,FALSE,36.0393,89925.0132,FALSE,P-Limited,Micromonas Pusilla
+Maat3BHL,H,FALSE,47.9426,9506.0142,FALSE,P-Limited,Micromonas Pusilla
+Maat3AHL,H,TRUE,0,1039600,FALSE,P-Limited,Micromonas Pusilla
+Maat3AHL,H,TRUE,6.0356,960400,FALSE,P-Limited,Micromonas Pusilla
+Maat3AHL,H,TRUE,12.0142,1113900,FALSE,P-Limited,Micromonas Pusilla
+Maat3AHL,H,TRUE,18.0498,925740,FALSE,P-Limited,Micromonas Pusilla
+Maat3AHL,H,TRUE,24.0285,1198000,FALSE,P-Limited,Micromonas Pusilla
+Maat3AHL,H,TRUE,29.9502,1326700,FALSE,P-Limited,Micromonas Pusilla
+Maat3AHL,H,TRUE,35.9858,1158400,FALSE,P-Limited,Micromonas Pusilla
+Maat3AHL,H,TRUE,48,955450,FALSE,P-Limited,Micromonas Pusilla
+Maat3AHL,H,TRUE,71.9715,930690,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,0.0128,8613900,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,3.0128,7524800,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,6.0128,7722800,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,9.0128,8316800,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,12.0128,10495000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,15.0128,23861000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,17.9872,39693000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,20.9565,48315000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,24.04,66006000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,36.0314,90238000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CHL,V,TRUE,48.0228,86075000,FALSE,P-Limited,Micromonas Pusilla
+Maat3BML,H,FALSE,0.0163,1069300,FALSE,P-Limited,Micromonas Pusilla
+Maat3BML,H,FALSE,6.0532,1035000,FALSE,P-Limited,Micromonas Pusilla
+Maat3BML,H,FALSE,11.9781,953240,FALSE,P-Limited,Micromonas Pusilla
+Maat3BML,H,FALSE,18.0215,746700,FALSE,P-Limited,Micromonas Pusilla
+Maat3BML,H,FALSE,24.0187,256480,FALSE,P-Limited,Micromonas Pusilla
+Maat3BML,H,FALSE,30.0025,122710,FALSE,P-Limited,Micromonas Pusilla
+Maat3BML,H,FALSE,35.9834,61708.2285,FALSE,P-Limited,Micromonas Pusilla
+Maat3BML,H,FALSE,47.9999,2079.2094,FALSE,P-Limited,Micromonas Pusilla
+Maat3AML,H,TRUE,0,1138600,FALSE,P-Limited,Micromonas Pusilla
+Maat3AML,H,TRUE,6.0356,1069300,FALSE,P-Limited,Micromonas Pusilla
+Maat3AML,H,TRUE,11.9573,1217800,FALSE,P-Limited,Micromonas Pusilla
+Maat3AML,H,TRUE,17.9929,1257400,FALSE,P-Limited,Micromonas Pusilla
+Maat3AML,H,TRUE,24.0285,1391100,FALSE,P-Limited,Micromonas Pusilla
+Maat3AML,H,TRUE,30.0071,1306900,FALSE,P-Limited,Micromonas Pusilla
+Maat3AML,H,TRUE,35.9858,1470300,FALSE,P-Limited,Micromonas Pusilla
+Maat3AML,H,TRUE,47.9431,1163400,FALSE,P-Limited,Micromonas Pusilla
+Maat3AML,H,TRUE,71.9146,1133700,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,0.0128,8415800,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,3.0128,7128700,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,6.0128,6930700,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,9.0256,8019800,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,12,19604000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,15.0128,33663000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,17.9872,56046000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,20.8994,86670000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,23.9828,83399000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,29.9215,90833000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,35.9743,100200000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,48.0228,90387000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CML,V,TRUE,72.1199,92022000,FALSE,P-Limited,Micromonas Pusilla
+Maat3BLL,H,FALSE,0.0171,1050000,FALSE,P-Limited,Micromonas Pusilla
+Maat3BLL,H,FALSE,5.9952,1061800,FALSE,P-Limited,Micromonas Pusilla
+Maat3BLL,H,FALSE,11.9777,962150,FALSE,P-Limited,Micromonas Pusilla
+Maat3BLL,H,FALSE,18.0764,800160,FALSE,P-Limited,Micromonas Pusilla
+Maat3BLL,H,FALSE,24.0127,415400,FALSE,P-Limited,Micromonas Pusilla
+Maat3BLL,H,FALSE,29.9994,204390,FALSE,P-Limited,Micromonas Pusilla
+Maat3BLL,H,FALSE,36.0391,94380.4618,FALSE,P-Limited,Micromonas Pusilla
+Maat3BLL,H,FALSE,47.9425,15446.6125,FALSE,P-Limited,Micromonas Pusilla
+Maat3BLL,H,FALSE,71.9146,150.1005,FALSE,P-Limited,Micromonas Pusilla
+Maat3ALL,H,TRUE,0,1059400,FALSE,P-Limited,Micromonas Pusilla
+Maat3ALL,H,TRUE,6.0356,1049500,FALSE,P-Limited,Micromonas Pusilla
+Maat3ALL,H,TRUE,11.9573,1207900,FALSE,P-Limited,Micromonas Pusilla
+Maat3ALL,H,TRUE,17.9929,1252500,FALSE,P-Limited,Micromonas Pusilla
+Maat3ALL,H,TRUE,24.0285,1420800,FALSE,P-Limited,Micromonas Pusilla
+Maat3ALL,H,TRUE,29.9502,1509900,FALSE,P-Limited,Micromonas Pusilla
+Maat3ALL,H,TRUE,36.0427,1064400,FALSE,P-Limited,Micromonas Pusilla
+Maat3ALL,H,TRUE,47.9431,1396000,FALSE,P-Limited,Micromonas Pusilla
+Maat3ALL,H,TRUE,71.9146,1272300,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,0.0128,8316800,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,3.0128,6930700,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,6.0128,7128700,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,9.0128,8118800,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,12.0128,32871000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,15.0128,40495000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,17.93,56046000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,20.9565,68831000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,23.9828,70763000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,30.0357,106740000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,35.9743,102280000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,48.0799,88305000,FALSE,P-Limited,Micromonas Pusilla
+Maat3CLL,V,TRUE,72.0628,92914000,FALSE,P-Limited,Micromonas Pusilla
+Maat2AHL,H,TRUE,0.0524,1205400,FALSE,P-Replete,Micromonas Pusilla
+Maat2AHL,H,TRUE,12.0143,2232100,FALSE,P-Replete,Micromonas Pusilla
+Maat2AHL,H,TRUE,18.0512,3020800,FALSE,P-Replete,Micromonas Pusilla
+Maat2AHL,H,TRUE,24.0314,3735100,FALSE,P-Replete,Micromonas Pusilla
+Maat2AHL,H,TRUE,29.9527,4955400,FALSE,P-Replete,Micromonas Pusilla
+Maat2AHL,H,TRUE,36.0466,5744000,FALSE,P-Replete,Micromonas Pusilla
+Maat2AHL,H,TRUE,47.9414,9434500,FALSE,P-Replete,Micromonas Pusilla
+Maat2BHL,H,FALSE,0.0422,1259900,FALSE,P-Replete,Micromonas Pusilla
+Maat2BHL,H,FALSE,12.0099,1226200,FALSE,P-Replete,Micromonas Pusilla
+Maat2BHL,H,FALSE,18.0196,755950,FALSE,P-Replete,Micromonas Pusilla
+Maat2BHL,H,FALSE,24.0267,331350,FALSE,P-Replete,Micromonas Pusilla
+Maat2BHL,H,FALSE,30.0843,19841.2698,FALSE,P-Replete,Micromonas Pusilla
+Maat2BHL,H,FALSE,36.0683,1984.127,FALSE,P-Replete,Micromonas Pusilla
+Maat2CHL,V,FALSE,0,8143000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CHL,V,FALSE,3.0096,6479700,FALSE,P-Replete,Micromonas Pusilla
+Maat2CHL,V,FALSE,5.9936,7000900,FALSE,P-Replete,Micromonas Pusilla
+Maat2CHL,V,FALSE,9.0032,11395000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CHL,V,FALSE,12,38034000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CHL,V,FALSE,15.0267,140470000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CHL,V,FALSE,18.0626,209320000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CHL,V,FALSE,21.0338,237650000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CHL,V,FALSE,24.0506,206400000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CHL,V,FALSE,30.035,184110000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CHL,V,FALSE,36.0822,192510000,FALSE,P-Replete,Micromonas Pusilla
+Maat2AML,H,TRUE,-5.31E-03,1398800,FALSE,P-Replete,Micromonas Pusilla
+Maat2AML,H,TRUE,11.9543,3020800,FALSE,P-Replete,Micromonas Pusilla
+Maat2AML,H,TRUE,17.935,3601200,FALSE,P-Replete,Micromonas Pusilla
+Maat2AML,H,TRUE,23.9685,5297600,FALSE,P-Replete,Micromonas Pusilla
+Maat2AML,H,TRUE,29.9477,6279800,FALSE,P-Replete,Micromonas Pusilla
+Maat2AML,H,TRUE,35.9255,7604200,FALSE,P-Replete,Micromonas Pusilla
+Maat2AML,H,TRUE,47.8726,12530000,FALSE,P-Replete,Micromonas Pusilla
+Maat2BML,H,FALSE,-0.0228,1400800,FALSE,P-Replete,Micromonas Pusilla
+Maat2BML,H,FALSE,11.9971,1450400,FALSE,P-Replete,Micromonas Pusilla
+Maat2BML,H,FALSE,17.9973,1144800,FALSE,P-Replete,Micromonas Pusilla
+Maat2BML,H,FALSE,24.0024,757940,FALSE,P-Replete,Micromonas Pusilla
+Maat2BML,H,FALSE,30.0234,89285.7143,FALSE,P-Replete,Micromonas Pusilla
+Maat2BML,H,FALSE,36.068,5952.381,FALSE,P-Replete,Micromonas Pusilla
+Maat2BML,H,FALSE,48.0342,0,FALSE,P-Replete,Micromonas Pusilla
+Maat2CML,V,FALSE,0,7944400,FALSE,P-Replete,Micromonas Pusilla
+Maat2CML,V,FALSE,2.9968,6578900,FALSE,P-Replete,Micromonas Pusilla
+Maat2CML,V,FALSE,6.0064,6901700,FALSE,P-Replete,Micromonas Pusilla
+Maat2CML,V,FALSE,9.0032,17751000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CML,V,FALSE,11.9872,89176000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CML,V,FALSE,14.9676,129440000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CML,V,FALSE,18.014,253410000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CML,V,FALSE,21.0399,269820000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CML,V,FALSE,24.0048,265080000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CML,V,FALSE,36.0899,233030000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CML,V,FALSE,48.0679,237020000,FALSE,P-Replete,Micromonas Pusilla
+Maat2ALL,H,TRUE,0.0532,997020,FALSE,P-Replete,Micromonas Pusilla
+Maat2ALL,H,TRUE,6.0357,1101200,FALSE,P-Replete,Micromonas Pusilla
+Maat2ALL,H,TRUE,11.9595,1651800,FALSE,P-Replete,Micromonas Pusilla
+Maat2ALL,H,TRUE,17.9982,1964300,FALSE,P-Replete,Micromonas Pusilla
+Maat2ALL,H,TRUE,23.9797,2351200,FALSE,P-Replete,Micromonas Pusilla
+Maat2ALL,H,TRUE,29.9616,2619000,FALSE,P-Replete,Micromonas Pusilla
+Maat2ALL,H,TRUE,35.9992,3199400,FALSE,P-Replete,Micromonas Pusilla
+Maat2ALL,H,TRUE,47.9574,5223200,FALSE,P-Replete,Micromonas Pusilla
+Maat2BLL,H,FALSE,0.0586,972220,FALSE,P-Replete,Micromonas Pusilla
+Maat2BLL,H,FALSE,6.04,998020,FALSE,P-Replete,Micromonas Pusilla
+Maat2BLL,H,FALSE,12.0381,732140,FALSE,P-Replete,Micromonas Pusilla
+Maat2BLL,H,FALSE,18.0851,607140,FALSE,P-Replete,Micromonas Pusilla
+Maat2BLL,H,FALSE,24.0185,476190,FALSE,P-Replete,Micromonas Pusilla
+Maat2BLL,H,FALSE,29.9583,232140,FALSE,P-Replete,Micromonas Pusilla
+Maat2BLL,H,FALSE,36.1171,144840,FALSE,P-Replete,Micromonas Pusilla
+Maat2BLL,H,FALSE,48.0314,49603.1746,FALSE,P-Replete,Micromonas Pusilla
+Maat2BLL,H,FALSE,72.0228,0,FALSE,P-Replete,Micromonas Pusilla
+Maat2CLL,V,FALSE,0.0128,8738900,FALSE,P-Replete,Micromonas Pusilla
+Maat2CLL,V,FALSE,3.0224,7770800,FALSE,P-Replete,Micromonas Pusilla
+Maat2CLL,V,FALSE,6.0064,4915600,FALSE,P-Replete,Micromonas Pusilla
+Maat2CLL,V,FALSE,9.0032,11991000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CLL,V,FALSE,11.9872,47567000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CLL,V,FALSE,15.0193,101740000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CLL,V,FALSE,18.0492,139010000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CLL,V,FALSE,21.0191,160490000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CLL,V,FALSE,24.043,166180000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CLL,V,FALSE,30.0325,171000000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CLL,V,FALSE,36.0795,178210000,FALSE,P-Replete,Micromonas Pusilla
+Maat2CLL,V,FALSE,48.0535,161650000,FALSE,P-Replete,Micromonas Pusilla
+Maat4CHL,V,FALSE,2.01E-05,3772900,FALSE,P-Replete,Phaeocystis globosa
+Maat4CHL,V,FALSE,2.983,3617300,FALSE,P-Replete,Phaeocystis globosa
+Maat4CHL,V,FALSE,5.9855,5777600,FALSE,P-Replete,Phaeocystis globosa
+Maat4CHL,V,FALSE,8.9976,5734000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CHL,V,FALSE,11.9952,11107000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CHL,V,FALSE,15.0024,25370000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CHL,V,FALSE,21.0213,95098000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CHL,V,FALSE,24.025,131140000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CHL,V,FALSE,30.0308,147830000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CHL,V,FALSE,35.9828,160780000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CHL,V,FALSE,48.9857,167630000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CHL,V,FALSE,71.9078,162120000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CLL,V,FALSE,-0.0242,5267100,FALSE,P-Replete,Phaeocystis globosa
+Maat4CLL,V,FALSE,2.983,3617300,FALSE,P-Replete,Phaeocystis globosa
+Maat4CLL,V,FALSE,5.9952,5292000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CLL,V,FALSE,8.9879,6555900,FALSE,P-Replete,Phaeocystis globosa
+Maat4CLL,V,FALSE,11.9952,6624300,FALSE,P-Replete,Phaeocystis globosa
+Maat4CLL,V,FALSE,15.0024,12968000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CLL,V,FALSE,20.9938,70396000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CLL,V,FALSE,24.0541,216470000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CLL,V,FALSE,29.9824,342070000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CLL,V,FALSE,35.9865,298130000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CLL,V,FALSE,48.9628,311710000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CLL,V,FALSE,71.912,317060000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CML,V,FALSE,-0.0145,3287300,FALSE,P-Replete,Phaeocystis globosa
+Maat4CML,V,FALSE,2.983,3617300,FALSE,P-Replete,Phaeocystis globosa
+Maat4CML,V,FALSE,5.9758,4582300,FALSE,P-Replete,Phaeocystis globosa
+Maat4CML,V,FALSE,8.9927,5248400,FALSE,P-Replete,Phaeocystis globosa
+Maat4CML,V,FALSE,11.9952,27954000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CML,V,FALSE,14.9927,69300000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CML,V,FALSE,21,301680000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CML,V,FALSE,24.0095,554790000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CML,V,FALSE,29.9901,631360000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CML,V,FALSE,35.9978,719160000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CML,V,FALSE,48.9986,647040000,FALSE,P-Replete,Phaeocystis globosa
+Maat4CML,V,FALSE,71.9485,679710000,FALSE,P-Replete,Phaeocystis globosa
+Maat4BHL,H,FALSE,0.0804,587100,FALSE,P-Replete,Phaeocystis globosa
+Maat4BHL,H,FALSE,6.0557,534950,FALSE,P-Replete,Phaeocystis globosa
+Maat4BHL,H,FALSE,12.0847,534950,FALSE,P-Replete,Phaeocystis globosa
+Maat4BHL,H,FALSE,18.0332,516450,FALSE,P-Replete,Phaeocystis globosa
+Maat4BHL,H,FALSE,24.089,229910,FALSE,P-Replete,Phaeocystis globosa
+Maat4BHL,H,FALSE,30.0107,16822.4299,FALSE,P-Replete,Phaeocystis globosa
+Maat4BLL,H,FALSE,0.134,491780,FALSE,P-Replete,Phaeocystis globosa
+Maat4BLL,H,FALSE,6.0557,559630,FALSE,P-Replete,Phaeocystis globosa
+Maat4BLL,H,FALSE,12.0579,559630,FALSE,P-Replete,Phaeocystis globosa
+Maat4BLL,H,FALSE,17.9796,591590,FALSE,P-Replete,Phaeocystis globosa
+Maat4BLL,H,FALSE,24.0622,510840,FALSE,P-Replete,Phaeocystis globosa
+Maat4BLL,H,FALSE,29.9839,187850,FALSE,P-Replete,Phaeocystis globosa
+Maat4BLL,H,FALSE,35.9593,81308.4112,FALSE,P-Replete,Phaeocystis globosa
+Maat4BLL,H,FALSE,48.0439,18504.6729,FALSE,P-Replete,Phaeocystis globosa
+Maat4BLL,H,FALSE,71.9184,-2803.7383,FALSE,P-Replete,Phaeocystis globosa
+Maat4BLL,H,FALSE,95.8735,-2242.9907,FALSE,P-Replete,Phaeocystis globosa
+Maat4BML,H,FALSE,0.0268,1073300,FALSE,P-Replete,Phaeocystis globosa
+Maat4BML,H,FALSE,6.0557,1023900,FALSE,P-Replete,Phaeocystis globosa
+Maat4BML,H,FALSE,12.0847,1024500,FALSE,P-Replete,Phaeocystis globosa
+Maat4BML,H,FALSE,18.06,855140,FALSE,P-Replete,Phaeocystis globosa
+Maat4BML,H,FALSE,24.0354,476070,FALSE,P-Replete,Phaeocystis globosa
+Maat4BML,H,FALSE,30.0375,97009.3458,FALSE,P-Replete,Phaeocystis globosa
+Maat4BML,H,FALSE,36.0129,1121.4953,FALSE,P-Replete,Phaeocystis globosa
+Maat4BML,H,FALSE,47.9367,-3925.2336,FALSE,P-Replete,Phaeocystis globosa
+Maat4AHL,H,TRUE,0.0644,571430,FALSE,P-Replete,Phaeocystis globosa
+Maat4AHL,H,TRUE,6.083,705090,FALSE,P-Replete,Phaeocystis globosa
+Maat4AHL,H,TRUE,12.0695,856600,FALSE,P-Replete,Phaeocystis globosa
+Maat4AHL,H,TRUE,18.0238,1490300,FALSE,P-Replete,Phaeocystis globosa
+Maat4AHL,H,TRUE,24.0747,2266800,FALSE,P-Replete,Phaeocystis globosa
+Maat4AHL,H,TRUE,30.029,2230800,FALSE,P-Replete,Phaeocystis globosa
+Maat4AHL,H,TRUE,36.0798,3083200,FALSE,P-Replete,Phaeocystis globosa
+Maat4AHL,H,TRUE,48.0206,6640700,FALSE,P-Replete,Phaeocystis globosa
+Maat4ALL,H,TRUE,0.0644,535710,FALSE,P-Replete,Phaeocystis globosa
+Maat4ALL,H,TRUE,6.0509,584550,FALSE,P-Replete,Phaeocystis globosa
+Maat4ALL,H,TRUE,12.0051,624460,FALSE,P-Replete,Phaeocystis globosa
+Maat4ALL,H,TRUE,17.9594,927770,FALSE,P-Replete,Phaeocystis globosa
+Maat4ALL,H,TRUE,24.0425,1074800,FALSE,P-Replete,Phaeocystis globosa
+Maat4ALL,H,TRUE,29.9646,1079000,FALSE,P-Replete,Phaeocystis globosa
+Maat4ALL,H,TRUE,35.951,1364500,FALSE,P-Replete,Phaeocystis globosa
+Maat4ALL,H,TRUE,48.0528,2337100,FALSE,P-Replete,Phaeocystis globosa
+Maat4AML,H,TRUE,0,1071400,FALSE,P-Replete,Phaeocystis globosa
+Maat4AML,H,TRUE,6.0187,1423800,FALSE,P-Replete,Phaeocystis globosa
+Maat4AML,H,TRUE,12.0695,1579800,FALSE,P-Replete,Phaeocystis globosa
+Maat4AML,H,TRUE,18.0238,2700100,FALSE,P-Replete,Phaeocystis globosa
+Maat4AML,H,TRUE,24.0103,3606100,FALSE,P-Replete,Phaeocystis globosa
+Maat4AML,H,TRUE,30.029,3686200,FALSE,P-Replete,Phaeocystis globosa
+Maat4AML,H,TRUE,36.0798,3824300,FALSE,P-Replete,Phaeocystis globosa
+Maat4AML,H,TRUE,48.0206,7247900,FALSE,P-Replete,Phaeocystis globosa
+Maat4DHL,V,FALSE,-0.0145,3772900,FALSE,P-Replete,Phaeocystis globosa
+Maat4DHL,V,FALSE,2.983,3617300,FALSE,P-Replete,Phaeocystis globosa
+Maat4DHL,V,FALSE,5.9855,5777600,FALSE,P-Replete,Phaeocystis globosa
+Maat4DHL,V,FALSE,8.9976,5734000,FALSE,P-Replete,Phaeocystis globosa
+Maat4DHL,V,FALSE,11.9952,11107000,FALSE,P-Replete,Phaeocystis globosa
+Maat4DHL,V,FALSE,15.0024,25370000,FALSE,P-Replete,Phaeocystis globosa
+Maat4DLL,V,FALSE,-0.0242,5267100,FALSE,P-Replete,Phaeocystis globosa
+Maat4DLL,V,FALSE,2.983,3617300,FALSE,P-Replete,Phaeocystis globosa
+Maat4DLL,V,FALSE,5.9952,5292000,FALSE,P-Replete,Phaeocystis globosa
+Maat4DLL,V,FALSE,8.9879,6555900,FALSE,P-Replete,Phaeocystis globosa
+Maat4DLL,V,FALSE,11.9952,6624300,FALSE,P-Replete,Phaeocystis globosa
+Maat4DLL,V,FALSE,15.0024,12968000,FALSE,P-Replete,Phaeocystis globosa
+Maat4DML,V,FALSE,-0.0145,3287300,FALSE,P-Replete,Phaeocystis globosa
+Maat4DML,V,FALSE,2.983,3617300,FALSE,P-Replete,Phaeocystis globosa
+Maat4DML,V,FALSE,5.9758,4582300,FALSE,P-Replete,Phaeocystis globosa
+Maat4DML,V,FALSE,8.9927,5248400,FALSE,P-Replete,Phaeocystis globosa
+Maat4DML,V,FALSE,11.9952,27954000,FALSE,P-Replete,Phaeocystis globosa
+Maat4DML,V,FALSE,14.9927,69300000,FALSE,P-Replete,Phaeocystis globosa
+Maat5DHL,V,FALSE,0,3652700,FALSE,P-Limited,Phaeocystis globosa
+Maat5DHL,V,FALSE,3,4192400,FALSE,P-Limited,Phaeocystis globosa
+Maat5DHL,V,FALSE,6.0067,5368200,FALSE,P-Limited,Phaeocystis globosa
+Maat5DHL,V,FALSE,8.9933,4481500,FALSE,P-Limited,Phaeocystis globosa
+Maat5DHL,V,FALSE,12,3835800,FALSE,P-Limited,Phaeocystis globosa
+Maat5DHL,V,FALSE,14.98,5676600,FALSE,P-Limited,Phaeocystis globosa
+Maat5DHL,V,FALSE,20.9933,13811000,FALSE,P-Limited,Phaeocystis globosa
+Maat5DLL,V,FALSE,0,3652700,FALSE,P-Limited,Phaeocystis globosa
+Maat5DLL,V,FALSE,3.0067,4452600,FALSE,P-Limited,Phaeocystis globosa
+Maat5DLL,V,FALSE,6,4250200,FALSE,P-Limited,Phaeocystis globosa
+Maat5DLL,V,FALSE,8.98,4905600,FALSE,P-Limited,Phaeocystis globosa
+Maat5DLL,V,FALSE,11.9933,4057400,FALSE,P-Limited,Phaeocystis globosa
+Maat5DLL,V,FALSE,14.9734,4847700,FALSE,P-Limited,Phaeocystis globosa
+Maat5DLL,V,FALSE,20.9734,11449000,FALSE,P-Limited,Phaeocystis globosa
+Maat5DML,V,FALSE,0.0066519,4394800,FALSE,P-Limited,Phaeocystis globosa
+Maat5DML,V,FALSE,3.0067,3884000,FALSE,P-Limited,Phaeocystis globosa
+Maat5DML,V,FALSE,6,3565900,FALSE,P-Limited,Phaeocystis globosa
+Maat5DML,V,FALSE,9,5021200,FALSE,P-Limited,Phaeocystis globosa
+Maat5DML,V,FALSE,11.9933,4616400,FALSE,P-Limited,Phaeocystis globosa
+Maat5DML,V,FALSE,14.9734,5589800,FALSE,P-Limited,Phaeocystis globosa
+Maat5DML,V,FALSE,20.9867,11613000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CHL,V,FALSE,0,3652700,FALSE,P-Limited,Phaeocystis globosa
+Maat5CHL,V,FALSE,3,4192400,FALSE,P-Limited,Phaeocystis globosa
+Maat5CHL,V,FALSE,6.0067,5368200,FALSE,P-Limited,Phaeocystis globosa
+Maat5CHL,V,FALSE,8.9933,4481500,FALSE,P-Limited,Phaeocystis globosa
+Maat5CHL,V,FALSE,12,3835800,FALSE,P-Limited,Phaeocystis globosa
+Maat5CHL,V,FALSE,14.98,5676600,FALSE,P-Limited,Phaeocystis globosa
+Maat5CHL,V,FALSE,20.9933,13811000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CHL,V,FALSE,24.0078,22415000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CHL,V,FALSE,29.975,23843000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CHL,V,FALSE,36.0255,32330000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CHL,V,FALSE,49.0147,35995000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CHL,V,FALSE,71.9956,37539000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CHL,V,FALSE,96.0588,43017000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CLL,V,FALSE,0,3652700,FALSE,P-Limited,Phaeocystis globosa
+Maat5CLL,V,FALSE,3.0067,4452600,FALSE,P-Limited,Phaeocystis globosa
+Maat5CLL,V,FALSE,6,4250200,FALSE,P-Limited,Phaeocystis globosa
+Maat5CLL,V,FALSE,8.98,4905600,FALSE,P-Limited,Phaeocystis globosa
+Maat5CLL,V,FALSE,11.9933,4057400,FALSE,P-Limited,Phaeocystis globosa
+Maat5CLL,V,FALSE,14.9734,4847700,FALSE,P-Limited,Phaeocystis globosa
+Maat5CLL,V,FALSE,20.9734,11449000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CLL,V,FALSE,23.9245,13002000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CLL,V,FALSE,29.9195,22955000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CLL,V,FALSE,35.97,38465000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CLL,V,FALSE,48.9592,57716000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CLL,V,FALSE,71.9123,64622000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CLL,V,FALSE,95.9201,69367000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CML,V,FALSE,6.65E-03,4394800,FALSE,P-Limited,Phaeocystis globosa
+Maat5CML,V,FALSE,3.0067,3884000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CML,V,FALSE,6,3565900,FALSE,P-Limited,Phaeocystis globosa
+Maat5CML,V,FALSE,9,5021200,FALSE,P-Limited,Phaeocystis globosa
+Maat5CML,V,FALSE,11.9933,4616400,FALSE,P-Limited,Phaeocystis globosa
+Maat5CML,V,FALSE,14.9734,5589800,FALSE,P-Limited,Phaeocystis globosa
+Maat5CML,V,FALSE,20.9867,11613000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CML,V,FALSE,23.98,14583000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CML,V,FALSE,30.0305,30826000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CML,V,FALSE,36.0255,50231000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CML,V,FALSE,49.0147,51659000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CML,V,FALSE,71.9956,61304000,FALSE,P-Limited,Phaeocystis globosa
+Maat5CML,V,FALSE,96.0588,68017000,FALSE,P-Limited,Phaeocystis globosa
+Maat5BHL,H,FALSE,0.0278,290700,FALSE,P-Limited,Phaeocystis globosa
+Maat5BHL,H,FALSE,6.0556,300930,FALSE,P-Limited,Phaeocystis globosa
+Maat5BHL,H,FALSE,12.0278,300540,FALSE,P-Limited,Phaeocystis globosa
+Maat5BHL,H,FALSE,18.0556,259260,FALSE,P-Limited,Phaeocystis globosa
+Maat5BHL,H,FALSE,24.0556,200810,FALSE,P-Limited,Phaeocystis globosa
+Maat5BHL,H,FALSE,30.0556,139470,FALSE,P-Limited,Phaeocystis globosa
+Maat5BHL,H,FALSE,36.0556,87962.963,FALSE,P-Limited,Phaeocystis globosa
+Maat5BHL,H,FALSE,48.0833,17168.2099,FALSE,P-Limited,Phaeocystis globosa
+Maat5BHL,H,FALSE,72.0833,2121.9136,FALSE,P-Limited,Phaeocystis globosa
+Maat5BHL,H,FALSE,96.1111,1929.0123,FALSE,P-Limited,Phaeocystis globosa
+Maat5BLL,H,FALSE,0,374610,FALSE,P-Limited,Phaeocystis globosa
+Maat5BLL,H,FALSE,6.0278,381370,FALSE,P-Limited,Phaeocystis globosa
+Maat5BLL,H,FALSE,11.9722,381170,FALSE,P-Limited,Phaeocystis globosa
+Maat5BLL,H,FALSE,17.9167,325810,FALSE,P-Limited,Phaeocystis globosa
+Maat5BLL,H,FALSE,24.0278,335260,FALSE,P-Limited,Phaeocystis globosa
+Maat5BLL,H,FALSE,29.9444,288580,FALSE,P-Limited,Phaeocystis globosa
+Maat5BLL,H,FALSE,35.9722,217590,FALSE,P-Limited,Phaeocystis globosa
+Maat5BLL,H,FALSE,48.0556,123260,FALSE,P-Limited,Phaeocystis globosa
+Maat5BLL,H,FALSE,72.0278,-578.7037,FALSE,P-Limited,Phaeocystis globosa
+Maat5BLL,H,FALSE,95.9167,-964.5062,FALSE,P-Limited,Phaeocystis globosa
+Maat5BML,H,FALSE,0,351850,FALSE,P-Limited,Phaeocystis globosa
+Maat5BML,H,FALSE,6.0278,334880,FALSE,P-Limited,Phaeocystis globosa
+Maat5BML,H,FALSE,12.0278,335260,FALSE,P-Limited,Phaeocystis globosa
+Maat5BML,H,FALSE,18.0278,292250,FALSE,P-Limited,Phaeocystis globosa
+Maat5BML,H,FALSE,24,264470,FALSE,P-Limited,Phaeocystis globosa
+Maat5BML,H,FALSE,30.0833,190200,FALSE,P-Limited,Phaeocystis globosa
+Maat5BML,H,FALSE,36.0556,106100,FALSE,P-Limited,Phaeocystis globosa
+Maat5BML,H,FALSE,48.0556,32214.5062,FALSE,P-Limited,Phaeocystis globosa
+Maat5BML,H,FALSE,72.0278,-578.7037,FALSE,P-Limited,Phaeocystis globosa
+Maat5BML,H,FALSE,96.0833,-964.5062,FALSE,P-Limited,Phaeocystis globosa
+Maat5AHL,H,TRUE,0.0278,293940,FALSE,P-Limited,Phaeocystis globosa
+Maat5AHL,H,TRUE,6.0228,307050,FALSE,P-Limited,Phaeocystis globosa
+Maat5AHL,H,TRUE,12.0178,305860,FALSE,P-Limited,Phaeocystis globosa
+Maat5AHL,H,TRUE,18.0128,306610,FALSE,P-Limited,Phaeocystis globosa
+Maat5AHL,H,TRUE,24.0355,346370,FALSE,P-Limited,Phaeocystis globosa
+Maat5AHL,H,TRUE,30.0305,362570,FALSE,P-Limited,Phaeocystis globosa
+Maat5AHL,H,TRUE,35.9978,349030,FALSE,P-Limited,Phaeocystis globosa
+Maat5AHL,H,TRUE,48.0155,357870,FALSE,P-Limited,Phaeocystis globosa
+Maat5AHL,H,TRUE,71.9956,366270,FALSE,P-Limited,Phaeocystis globosa
+Maat5ALL,H,TRUE,0,378140,FALSE,P-Limited,Phaeocystis globosa
+Maat5ALL,H,TRUE,6.0228,373090,FALSE,P-Limited,Phaeocystis globosa
+Maat5ALL,H,TRUE,11.9344,373460,FALSE,P-Limited,Phaeocystis globosa
+Maat5ALL,H,TRUE,17.9295,369570,FALSE,P-Limited,Phaeocystis globosa
+Maat5ALL,H,TRUE,23.9523,445640,FALSE,P-Limited,Phaeocystis globosa
+Maat5ALL,H,TRUE,29.975,471880,FALSE,P-Limited,Phaeocystis globosa
+Maat5ALL,H,TRUE,35.9978,461820,FALSE,P-Limited,Phaeocystis globosa
+Maat5ALL,H,TRUE,48.0988,465630,FALSE,P-Limited,Phaeocystis globosa
+Maat5ALL,H,TRUE,72.0233,490260,FALSE,P-Limited,Phaeocystis globosa
+Maat5AML,H,TRUE,-0.0278,355740,FALSE,P-Limited,Phaeocystis globosa
+Maat5AML,H,TRUE,6.0228,346830,FALSE,P-Limited,Phaeocystis globosa
+Maat5AML,H,TRUE,12.0178,346420,FALSE,P-Limited,Phaeocystis globosa
+Maat5AML,H,TRUE,18.0128,340220,FALSE,P-Limited,Phaeocystis globosa
+Maat5AML,H,TRUE,23.9523,380750,FALSE,P-Limited,Phaeocystis globosa
+Maat5AML,H,TRUE,30.0028,413940,FALSE,P-Limited,Phaeocystis globosa
+Maat5AML,H,TRUE,35.9978,383410,FALSE,P-Limited,Phaeocystis globosa
+Maat5AML,H,TRUE,47.9878,377570,FALSE,P-Limited,Phaeocystis globosa
+Maat5AML,H,TRUE,71.9678,386740,FALSE,P-Limited,Phaeocystis globosa
+Maat1A,H,TRUE,0,924260,FALSE,32-Spiked,Micromonas Pusilla
+Maat1A,H,TRUE,2.8185,905330,FALSE,32-Spiked,Micromonas Pusilla
+Maat1A,H,TRUE,5.9459,1003700,FALSE,32-Spiked,Micromonas Pusilla
+Maat1A,H,TRUE,12.0849,1003300,FALSE,32-Spiked,Micromonas Pusilla
+Maat1A,H,TRUE,17.9923,1181300,FALSE,32-Spiked,Micromonas Pusilla
+Maat1A,H,TRUE,23.9768,1340400,FALSE,32-Spiked,Micromonas Pusilla
+Maat1A,H,TRUE,29.9228,1457400,FALSE,32-Spiked,Micromonas Pusilla
+Maat1A,H,TRUE,47.9537,1836300,FALSE,32-Spiked,Micromonas Pusilla
+Maat1A,H,TRUE,72.0077,1928800,FALSE,32-Spiked,Micromonas Pusilla
+Maat1A,H,TRUE,0,886730,FALSE,32-Enriched,Micromonas Pusilla
+Maat1A,H,TRUE,2.9344,867790,FALSE,32-Enriched,Micromonas Pusilla
+Maat1A,H,TRUE,5.9459,984910,FALSE,32-Enriched,Micromonas Pusilla
+Maat1A,H,TRUE,11.9304,956400,FALSE,32-Enriched,Micromonas Pusilla
+Maat1A,H,TRUE,17.9537,1246900,FALSE,32-Enriched,Micromonas Pusilla
+Maat1A,H,TRUE,23.9768,1457700,FALSE,32-Enriched,Micromonas Pusilla
+Maat1A,H,TRUE,29.9614,1555900,FALSE,32-Enriched,Micromonas Pusilla
+Maat1A,H,TRUE,35.9846,1790100,FALSE,32-Enriched,Micromonas Pusilla
+Maat1A,H,TRUE,47.9923,2540100,FALSE,32-Enriched,Micromonas Pusilla
+Maat1A,H,TRUE,-0.0772,755370,FALSE,32-Starved,Micromonas Pusilla
+Maat1A,H,TRUE,2.9344,736420,FALSE,32-Starved,Micromonas Pusilla
+Maat1A,H,TRUE,5.9846,825390,FALSE,32-Starved,Micromonas Pusilla
+Maat1A,H,TRUE,11.9304,684290,FALSE,32-Starved,Micromonas Pusilla
+Maat1A,H,TRUE,17.9923,801220,FALSE,32-Starved,Micromonas Pusilla
+Maat1A,H,TRUE,23.9768,861860,FALSE,32-Starved,Micromonas Pusilla
+Maat1A,H,TRUE,30,945960,FALSE,32-Starved,Micromonas Pusilla
+Maat1A,H,TRUE,47.9537,818230,FALSE,32-Starved,Micromonas Pusilla
+Maat1A,H,TRUE,71.9691,920040,FALSE,32-Starved,Micromonas Pusilla
+Maat1A,H,TRUE,-0.0386,928960,FALSE,97-enriched,Micromonas Pusilla
+Maat1A,H,TRUE,2.9344,844330,FALSE,97-enriched,Micromonas Pusilla
+Maat1A,H,TRUE,5.9459,980210,FALSE,97-enriched,Micromonas Pusilla
+Maat1A,H,TRUE,11.9304,1134700,FALSE,97-enriched,Micromonas Pusilla
+Maat1A,H,TRUE,17.9923,1673900,FALSE,97-enriched,Micromonas Pusilla
+Maat1A,H,TRUE,23.9382,2025400,FALSE,97-enriched,Micromonas Pusilla
+Maat1A,H,TRUE,30,2376900,FALSE,97-enriched,Micromonas Pusilla
+Maat1A,H,TRUE,36.0232,2920800,FALSE,97-enriched,Micromonas Pusilla
+Maat1A,H,TRUE,47.9537,4276000,FALSE,97-enriched,Micromonas Pusilla
+Maat1A,H,TRUE,-0.0386,928960,FALSE,97-Spiked,Micromonas Pusilla
+Maat1A,H,TRUE,2.9344,867790,FALSE,97-Spiked,Micromonas Pusilla
+Maat1A,H,TRUE,5.9459,984910,FALSE,97-Spiked,Micromonas Pusilla
+Maat1A,H,TRUE,11.9304,1139400,FALSE,97-Spiked,Micromonas Pusilla
+Maat1A,H,TRUE,17.9923,1622300,FALSE,97-Spiked,Micromonas Pusilla
+Maat1A,H,TRUE,23.9382,1851800,FALSE,97-Spiked,Micromonas Pusilla
+Maat1A,H,TRUE,47.9537,3628600,FALSE,97-Spiked,Micromonas Pusilla
+Maat1A,H,TRUE,71.9691,5119100,FALSE,97-Spiked,Micromonas Pusilla
+Maat1A,H,TRUE,0,886730,FALSE,97-Starved,Micromonas Pusilla
+Maat1A,H,TRUE,2.9344,853720,FALSE,97-Starved,Micromonas Pusilla
+Maat1A,H,TRUE,5.9459,975520,FALSE,97-Starved,Micromonas Pusilla
+Maat1A,H,TRUE,11.9304,909490,FALSE,97-Starved,Micromonas Pusilla
+Maat1A,H,TRUE,17.9923,1190600,FALSE,97-Starved,Micromonas Pusilla
+Maat1A,H,TRUE,23.9768,1340400,FALSE,97-Starved,Micromonas Pusilla
+Maat1A,H,TRUE,29.9614,1391700,FALSE,97-Starved,Micromonas Pusilla
+Maat1A,H,TRUE,47.9537,1409400,FALSE,97-Starved,Micromonas Pusilla
+Maat1A,H,TRUE,71.9691,1267200,FALSE,97-Starved,Micromonas Pusilla
+Maat1A,H,TRUE,-0.0386,928960,FALSE,p-replete,Micromonas Pusilla
+Maat1A,H,TRUE,2.8571,881870,FALSE,p-replete,Micromonas Pusilla
+Maat1A,H,TRUE,5.9459,980210,FALSE,p-replete,Micromonas Pusilla
+Maat1A,H,TRUE,11.9691,1219100,FALSE,p-replete,Micromonas Pusilla
+Maat1A,H,TRUE,17.9923,1622300,FALSE,p-replete,Micromonas Pusilla
+Maat1A,H,TRUE,23.9382,2489900,FALSE,p-replete,Micromonas Pusilla
+Maat1A,H,TRUE,30,2874200,FALSE,p-replete,Micromonas Pusilla
+Maat1A,H,TRUE,35.9459,3310200,FALSE,p-replete,Micromonas Pusilla
+Maat1A,H,TRUE,47.9537,5960300,FALSE,p-replete,Micromonas Pusilla
+Maat1B,H,FALSE,0,970530,FALSE,32-Enriched,Micromonas Pusilla
+Maat1B,H,FALSE,5.9102,916070,FALSE,32-Enriched,Micromonas Pusilla
+Maat1B,H,FALSE,11.9748,845670,FALSE,32-Enriched,Micromonas Pusilla
+Maat1B,H,FALSE,18.001,776210,FALSE,32-Enriched,Micromonas Pusilla
+Maat1B,H,FALSE,23.9498,781770,FALSE,32-Enriched,Micromonas Pusilla
+Maat1B,H,FALSE,29.9372,506010,FALSE,32-Enriched,Micromonas Pusilla
+Maat1B,H,FALSE,35.9633,208690,FALSE,32-Enriched,Micromonas Pusilla
+Maat1B,H,FALSE,47.8996,117590,FALSE,32-Enriched,Micromonas Pusilla
+Maat1B,H,FALSE,71.9266,94.6312,FALSE,32-Enriched,Micromonas Pusilla
+Maat1B,H,FALSE,0,998660,FALSE,32-Spiked,Micromonas Pusilla
+Maat1B,H,FALSE,5.9874,1006100,FALSE,32-Spiked,Micromonas Pusilla
+Maat1B,H,FALSE,12.0908,1020100,FALSE,32-Spiked,Micromonas Pusilla
+Maat1B,H,FALSE,17.9623,1087500,FALSE,32-Spiked,Micromonas Pusilla
+Maat1B,H,FALSE,23.9884,878350,FALSE,32-Spiked,Micromonas Pusilla
+Maat1B,H,FALSE,29.9759,566030,FALSE,32-Spiked,Micromonas Pusilla
+Maat1B,H,FALSE,35.9633,452490,FALSE,32-Spiked,Micromonas Pusilla
+Maat1B,H,FALSE,41.9121,278950,FALSE,32-Spiked,Micromonas Pusilla
+Maat1B,H,FALSE,47.9768,195420,FALSE,32-Spiked,Micromonas Pusilla
+Maat1B,H,FALSE,59.9131,235.4461,FALSE,32-Spiked,Micromonas Pusilla
+Maat1B,H,FALSE,71.9266,1032.3405,FALSE,32-Spiked,Micromonas Pusilla
+Maat1B,H,FALSE,0,1000500,FALSE,32-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,5.9487,1067000,FALSE,32-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,11.9748,928190,FALSE,32-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,17.9623,1079100,FALSE,32-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,23.9498,766770,FALSE,32-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,29.9372,611040,FALSE,32-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,35.9247,348410,FALSE,32-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,41.9506,279880,FALSE,32-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,47.9382,172910,FALSE,32-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,53.9256,92201.1395,FALSE,32-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,59.8745,5862.1547,FALSE,32-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,72.0039,1031.435,FALSE,32-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,0,1003300,FALSE,97-Enriched,Micromonas Pusilla
+Maat1B,H,FALSE,5.9487,992960,FALSE,97-Enriched,Micromonas Pusilla
+Maat1B,H,FALSE,11.9363,1020100,FALSE,97-Enriched,Micromonas Pusilla
+Maat1B,H,FALSE,17.9623,1010600,FALSE,97-Enriched,Micromonas Pusilla
+Maat1B,H,FALSE,23.9112,835220,FALSE,97-Enriched,Micromonas Pusilla
+Maat1B,H,FALSE,29.9372,400990,FALSE,97-Enriched,Micromonas Pusilla
+Maat1B,H,FALSE,35.9247,167430,FALSE,97-Enriched,Micromonas Pusilla
+Maat1B,H,FALSE,47.8996,54763.4009,FALSE,97-Enriched,Micromonas Pusilla
+Maat1B,H,FALSE,71.9266,94.6312,FALSE,97-Enriched,Micromonas Pusilla
+Maat1B,H,FALSE,0,998660,FALSE,97-Spiked,Micromonas Pusilla
+Maat1B,H,FALSE,5.9874,1006100,FALSE,97-Spiked,Micromonas Pusilla
+Maat1B,H,FALSE,12.0135,999460,FALSE,97-Spiked,Micromonas Pusilla
+Maat1B,H,FALSE,17.9237,1001300,FALSE,97-Spiked,Micromonas Pusilla
+Maat1B,H,FALSE,23.9112,816460,FALSE,97-Spiked,Micromonas Pusilla
+Maat1B,H,FALSE,29.9759,470380,FALSE,97-Spiked,Micromonas Pusilla
+Maat1B,H,FALSE,35.9247,344660,FALSE,97-Spiked,Micromonas Pusilla
+Maat1B,H,FALSE,41.9506,279880,FALSE,97-Spiked,Micromonas Pusilla
+Maat1B,H,FALSE,59.9131,50871.7488,FALSE,97-Spiked,Micromonas Pusilla
+Maat1B,H,FALSE,71.9266,1032.3405,FALSE,97-Spiked,Micromonas Pusilla
+Maat1B,H,FALSE,0,1108400,FALSE,97-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,5.9487,1124200,FALSE,97-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,11.9363,971330,FALSE,97-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,17.9623,825910,FALSE,97-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,23.9112,791150,FALSE,97-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,29.9759,652290,FALSE,97-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,35.9247,267760,FALSE,97-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,41.9121,256440,FALSE,97-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,47.9382,123220,FALSE,97-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,53.9256,16246.6854,FALSE,97-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,59.8745,5862.1547,FALSE,97-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,72.0039,1031.435,FALSE,97-Starved,Micromonas Pusilla
+Maat1B,H,FALSE,-0.0386,1003300,FALSE,P-replete,Micromonas Pusilla
+Maat1B,H,FALSE,5.9487,977020,FALSE,P-replete,Micromonas Pusilla
+Maat1B,H,FALSE,11.9748,981640,FALSE,P-replete,Micromonas Pusilla
+Maat1B,H,FALSE,17.9623,942190,FALSE,P-replete,Micromonas Pusilla
+Maat1B,H,FALSE,23.9884,464820,FALSE,P-replete,Micromonas Pusilla
+Maat1B,H,FALSE,29.9372,311910,FALSE,P-replete,Micromonas Pusilla
+Maat1B,H,FALSE,35.9633,135550,FALSE,P-replete,Micromonas Pusilla
+Maat1B,H,FALSE,47.8996,52887.9823,FALSE,P-replete,Micromonas Pusilla
+Maat1B,H,FALSE,71.9266,94.6312,FALSE,P-replete,Micromonas Pusilla
+Maat1C,V,FALSE,1.30E-04,1174500,FALSE,32-Enriched,Micromonas Pusilla
+Maat1C,V,FALSE,5.9876,1626700,FALSE,32-Enriched,Micromonas Pusilla
+Maat1C,V,FALSE,11.9752,2783600,FALSE,32-Enriched,Micromonas Pusilla
+Maat1C,V,FALSE,18.0399,2765800,FALSE,32-Enriched,Micromonas Pusilla
+Maat1C,V,FALSE,23.9931,43151000,FALSE,32-Enriched,Micromonas Pusilla
+Maat1C,V,FALSE,30.062,80482000,FALSE,32-Enriched,Micromonas Pusilla
+Maat1C,V,FALSE,36.0137,106300000,FALSE,32-Enriched,Micromonas Pusilla
+Maat1C,V,FALSE,42.0034,126720000,FALSE,32-Enriched,Micromonas Pusilla
+Maat1C,V,FALSE,47.9891,112140000,FALSE,32-Enriched,Micromonas Pusilla
+Maat1C,V,FALSE,72.0169,117940000,FALSE,32-Enriched,Micromonas Pusilla
+Maat1C,V,FALSE,1.30E-04,1174500,FALSE,32-Spiked,Micromonas Pusilla
+Maat1C,V,FALSE,5.9878,2801200,FALSE,32-Spiked,Micromonas Pusilla
+Maat1C,V,FALSE,11.9758,8186300,FALSE,32-Spiked,Micromonas Pusilla
+Maat1C,V,FALSE,18.0023,11692000,FALSE,32-Spiked,Micromonas Pusilla
+Maat1C,V,FALSE,23.9543,41037000,FALSE,32-Spiked,Micromonas Pusilla
+Maat1C,V,FALSE,30.0231,77664000,FALSE,32-Spiked,Micromonas Pusilla
+Maat1C,V,FALSE,36.0519,102550000,FALSE,32-Spiked,Micromonas Pusilla
+Maat1C,V,FALSE,45.943,122480000,FALSE,32-Spiked,Micromonas Pusilla
+Maat1C,V,FALSE,60.0042,125730000,FALSE,32-Spiked,Micromonas Pusilla
+Maat1C,V,FALSE,72.0176,124290000,FALSE,32-Spiked,Micromonas Pusilla
+Maat1C,V,FALSE,1.30E-04,1174500,FALSE,32-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,6.0263,2096400,FALSE,32-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,11.9755,5602400,FALSE,32-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,18.0018,7698800,FALSE,32-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,23.9906,19896000,FALSE,32-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,30.0188,38670000,FALSE,32-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,36.0078,52982000,FALSE,32-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,41.9567,54608000,FALSE,32-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,47.9832,58584000,FALSE,32-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,54.0088,53398000,FALSE,32-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,59.9958,49857000,FALSE,32-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,71.9714,55460000,FALSE,32-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,1.30E-04,1174500,FALSE,97-Enriched,Micromonas Pusilla
+Maat1C,V,FALSE,5.9876,1626700,FALSE,97-Enriched,Micromonas Pusilla
+Maat1C,V,FALSE,11.9752,2783600,FALSE,97-Enriched,Micromonas Pusilla
+Maat1C,V,FALSE,18.0456,53974000,FALSE,97-Enriched,Micromonas Pusilla
+Maat1C,V,FALSE,24.0031,132880000,FALSE,97-Enriched,Micromonas Pusilla
+Maat1C,V,FALSE,29.9969,190890000,FALSE,97-Enriched,Micromonas Pusilla
+Maat1C,V,FALSE,36.0255,213890000,FALSE,97-Enriched,Micromonas Pusilla
+Maat1C,V,FALSE,42.0162,243470000,FALSE,97-Enriched,Micromonas Pusilla
+Maat1C,V,FALSE,48.002,228180000,FALSE,97-Enriched,Micromonas Pusilla
+Maat1C,V,FALSE,71.9917,239620000,FALSE,97-Enriched,Micromonas Pusilla
+Maat1C,V,FALSE,1.30E-04,1174500,FALSE,97-Spiked,Micromonas Pusilla
+Maat1C,V,FALSE,5.9878,2801200,FALSE,97-Spiked,Micromonas Pusilla
+Maat1C,V,FALSE,11.9758,8186300,FALSE,97-Spiked,Micromonas Pusilla
+Maat1C,V,FALSE,18.0054,40350000,FALSE,97-Spiked,Micromonas Pusilla
+Maat1C,V,FALSE,23.9982,88252000,FALSE,97-Spiked,Micromonas Pusilla
+Maat1C,V,FALSE,30.0296,136620000,FALSE,97-Spiked,Micromonas Pusilla
+Maat1C,V,FALSE,36.0176,141540000,FALSE,97-Spiked,Micromonas Pusilla
+Maat1C,V,FALSE,45.9861,162420000,FALSE,97-Spiked,Micromonas Pusilla
+Maat1C,V,FALSE,60.0073,153920000,FALSE,97-Spiked,Micromonas Pusilla
+Maat1C,V,FALSE,72.0217,161400000,FALSE,97-Spiked,Micromonas Pusilla
+Maat1C,V,FALSE,1.30E-04,1174500,FALSE,97-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,6.0263,2331300,FALSE,97-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,11.9757,7716500,FALSE,97-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,18.0035,23202000,FALSE,97-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,23.9936,46909000,FALSE,97-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,30.0209,57697000,FALSE,97-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,36.0098,71539000,FALSE,97-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,41.9976,74340000,FALSE,97-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,47.9855,79020000,FALSE,97-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,54.01,64204000,FALSE,97-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,59.9975,64891000,FALSE,97-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,71.9725,65795000,FALSE,97-Starved,Micromonas Pusilla
+Maat1C,V,FALSE,7.52E-04,6812100,FALSE,P-replete,Micromonas Pusilla
+Maat1C,V,FALSE,5.9883,7734100,FALSE,P-replete,Micromonas Pusilla
+Maat1C,V,FALSE,12.0536,12884000,FALSE,P-replete,Micromonas Pusilla
+Maat1C,V,FALSE,18.0098,79813000,FALSE,P-replete,Micromonas Pusilla
+Maat1C,V,FALSE,24.0486,195130000,FALSE,P-replete,Micromonas Pusilla
+Maat1C,V,FALSE,30.0096,305280000,FALSE,P-replete,Micromonas Pusilla
+Maat1C,V,FALSE,36.0312,264860000,FALSE,P-replete,Micromonas Pusilla
+Maat1C,V,FALSE,48.009,291600000,FALSE,P-replete,Micromonas Pusilla
+Maat3A,H,TRUE,0,1180300,FALSE,1h,Micromonas Pusilla
+Maat3A,H,TRUE,6.063,1254100,FALSE,1h,Micromonas Pusilla
+Maat3A,H,TRUE,12.0079,1397500,FALSE,1h,Micromonas Pusilla
+Maat3A,H,TRUE,17.9921,1979500,FALSE,1h,Micromonas Pusilla
+Maat3A,H,TRUE,23.9764,2073800,FALSE,1h,Micromonas Pusilla
+Maat3A,H,TRUE,30,2147500,FALSE,1h,Micromonas Pusilla
+Maat3A,H,TRUE,35.9843,2045100,FALSE,1h,Micromonas Pusilla
+Maat3A,H,TRUE,47.9527,2877000,FALSE,1h,Micromonas Pusilla
+Maat3A,H,TRUE,53.937,4151600,FALSE,1h,Micromonas Pusilla
+Maat3A,H,TRUE,0,1229500,FALSE,6h,Micromonas Pusilla
+Maat3A,H,TRUE,6.063,1303300,FALSE,6h,Micromonas Pusilla
+Maat3A,H,TRUE,12.0079,1311500,FALSE,6h,Micromonas Pusilla
+Maat3A,H,TRUE,18.0315,1930300,FALSE,6h,Micromonas Pusilla
+Maat3A,H,TRUE,23.9764,2073800,FALSE,6h,Micromonas Pusilla
+Maat3A,H,TRUE,30,2147500,FALSE,6h,Micromonas Pusilla
+Maat3A,H,TRUE,35.9843,2159800,FALSE,6h,Micromonas Pusilla
+Maat3A,H,TRUE,47.9527,2885200,FALSE,6h,Micromonas Pusilla
+Maat3A,H,TRUE,53.937,3946700,FALSE,6h,Micromonas Pusilla
+Maat3A,H,TRUE,0,1123000,FALSE,12h,Micromonas Pusilla
+Maat3A,H,TRUE,6.063,1213100,FALSE,12h,Micromonas Pusilla
+Maat3A,H,TRUE,12.0079,1024600,FALSE,12h,Micromonas Pusilla
+Maat3A,H,TRUE,17.9921,1463100,FALSE,12h,Micromonas Pusilla
+Maat3A,H,TRUE,23.9764,1590200,FALSE,12h,Micromonas Pusilla
+Maat3A,H,TRUE,29.9606,1795100,FALSE,12h,Micromonas Pusilla
+Maat3A,H,TRUE,35.9843,2000000,FALSE,12h,Micromonas Pusilla
+Maat3A,H,TRUE,47.9921,2754100,FALSE,12h,Micromonas Pusilla
+Maat3A,H,TRUE,53.9764,4143400,FALSE,12h,Micromonas Pusilla
+Maat3A,H,TRUE,0,1168000,FALSE,18h,Micromonas Pusilla
+Maat3A,H,TRUE,6.063,1213100,FALSE,18h,Micromonas Pusilla
+Maat3A,H,TRUE,12.0079,1069700,FALSE,18h,Micromonas Pusilla
+Maat3A,H,TRUE,17.9921,1532800,FALSE,18h,Micromonas Pusilla
+Maat3A,H,TRUE,24.0157,1463100,FALSE,18h,Micromonas Pusilla
+Maat3A,H,TRUE,30,1643400,FALSE,18h,Micromonas Pusilla
+Maat3A,H,TRUE,35.9843,2053300,FALSE,18h,Micromonas Pusilla
+Maat3A,H,TRUE,47.9921,2885200,FALSE,18h,Micromonas Pusilla
+Maat3A,H,TRUE,53.9764,4069700,FALSE,18h,Micromonas Pusilla
+Maat3A,H,TRUE,0,1168000,FALSE,24h,Micromonas Pusilla
+Maat3A,H,TRUE,6.063,1213100,FALSE,24h,Micromonas Pusilla
+Maat3A,H,TRUE,12.0079,1028700,FALSE,24h,Micromonas Pusilla
+Maat3A,H,TRUE,17.9921,1454900,FALSE,24h,Micromonas Pusilla
+Maat3A,H,TRUE,24.0157,1434400,FALSE,24h,Micromonas Pusilla
+Maat3A,H,TRUE,29.9606,1512300,FALSE,24h,Micromonas Pusilla
+Maat3A,H,TRUE,36.0236,1832000,FALSE,24h,Micromonas Pusilla
+Maat3A,H,TRUE,47.9527,2873000,FALSE,24h,Micromonas Pusilla
+Maat3A,H,TRUE,53.937,4487700,FALSE,24h,Micromonas Pusilla
+Maat3A,H,TRUE,0,1086100,FALSE,30h,Micromonas Pusilla
+Maat3A,H,TRUE,6.0236,1233600,FALSE,30h,Micromonas Pusilla
+Maat3A,H,TRUE,12.0472,1102500,FALSE,30h,Micromonas Pusilla
+Maat3A,H,TRUE,17.9527,1459000,FALSE,30h,Micromonas Pusilla
+Maat3A,H,TRUE,24.0157,1438500,FALSE,30h,Micromonas Pusilla
+Maat3A,H,TRUE,29.9606,1565600,FALSE,30h,Micromonas Pusilla
+Maat3A,H,TRUE,35.9843,1545100,FALSE,30h,Micromonas Pusilla
+Maat3A,H,TRUE,47.9527,2487700,FALSE,30h,Micromonas Pusilla
+Maat3A,H,TRUE,54.0157,4209000,FALSE,30h,Micromonas Pusilla
+Maat3A,H,TRUE,0,1086100,FALSE,36h,Micromonas Pusilla
+Maat3A,H,TRUE,6.0236,1233600,FALSE,36h,Micromonas Pusilla
+Maat3A,H,TRUE,12.0472,1024600,FALSE,36h,Micromonas Pusilla
+Maat3A,H,TRUE,17.9527,1459000,FALSE,36h,Micromonas Pusilla
+Maat3A,H,TRUE,24.0157,1438500,FALSE,36h,Micromonas Pusilla
+Maat3A,H,TRUE,29.9606,1532800,FALSE,36h,Micromonas Pusilla
+Maat3A,H,TRUE,35.9449,1528700,FALSE,36h,Micromonas Pusilla
+Maat3A,H,TRUE,47.9527,1803300,FALSE,36h,Micromonas Pusilla
+Maat3A,H,TRUE,53.937,3475400,FALSE,36h,Micromonas Pusilla
+Maat3A,H,TRUE,0,1086100,FALSE,48h,Micromonas Pusilla
+Maat3A,H,TRUE,6.0236,1135200,FALSE,48h,Micromonas Pusilla
+Maat3A,H,TRUE,12.0079,913930,FALSE,48h,Micromonas Pusilla
+Maat3A,H,TRUE,17.9527,1418000,FALSE,48h,Micromonas Pusilla
+Maat3A,H,TRUE,24.0157,1438500,FALSE,48h,Micromonas Pusilla
+Maat3A,H,TRUE,30,1495900,FALSE,48h,Micromonas Pusilla
+Maat3A,H,TRUE,36.0236,1450800,FALSE,48h,Micromonas Pusilla
+Maat3A,H,TRUE,47.9527,1508200,FALSE,48h,Micromonas Pusilla
+Maat3A,H,TRUE,53.937,2692600,FALSE,48h,Micromonas Pusilla
+Maat3A,H,TRUE,0,1032800,FALSE,p-starved,Micromonas Pusilla
+Maat3A,H,TRUE,6.063,1094300,FALSE,p-starved,Micromonas Pusilla
+Maat3A,H,TRUE,12.0472,1012300,FALSE,p-starved,Micromonas Pusilla
+Maat3A,H,TRUE,18.0315,1450800,FALSE,p-starved,Micromonas Pusilla
+Maat3A,H,TRUE,24.0551,1418000,FALSE,p-starved,Micromonas Pusilla
+Maat3A,H,TRUE,30,1467200,FALSE,p-starved,Micromonas Pusilla
+Maat3A,H,TRUE,35.9843,1434400,FALSE,p-starved,Micromonas Pusilla
+Maat3A,H,TRUE,47.9921,1471300,FALSE,p-starved,Micromonas Pusilla
+Maat3A,H,TRUE,53.9764,1463100,FALSE,p-starved,Micromonas Pusilla
+Maat3B,H,FALSE,0,1273000,FALSE,1h,Micromonas Pusilla
+Maat3B,H,FALSE,6.0236,1293800,FALSE,1h,Micromonas Pusilla
+Maat3B,H,FALSE,12.0472,1232500,FALSE,1h,Micromonas Pusilla
+Maat3B,H,FALSE,18.0315,1264300,FALSE,1h,Micromonas Pusilla
+Maat3B,H,FALSE,24.0551,691180,FALSE,1h,Micromonas Pusilla
+Maat3B,H,FALSE,30,340120,FALSE,1h,Micromonas Pusilla
+Maat3B,H,FALSE,36.0236,153110,FALSE,1h,Micromonas Pusilla
+Maat3B,H,FALSE,48.0709,26247.4368,FALSE,1h,Micromonas Pusilla
+Maat3B,H,FALSE,54.0551,2.3283E-10,FALSE,1h,Micromonas Pusilla
+Maat3B,H,FALSE,-0.0394,1235800,FALSE,6h,Micromonas Pusilla
+Maat3B,H,FALSE,6.0236,1277400,FALSE,6h,Micromonas Pusilla
+Maat3B,H,FALSE,12.0472,1355000,FALSE,6h,Micromonas Pusilla
+Maat3B,H,FALSE,18.0315,1264300,FALSE,6h,Micromonas Pusilla
+Maat3B,H,FALSE,24.0157,674780,FALSE,6h,Micromonas Pusilla
+Maat3B,H,FALSE,30,331370,FALSE,6h,Micromonas Pusilla
+Maat3B,H,FALSE,35.9843,114830,FALSE,6h,Micromonas Pusilla
+Maat3B,H,FALSE,48.0709,26247.4368,FALSE,6h,Micromonas Pusilla
+Maat3B,H,FALSE,54.0551,2.3283E-10,FALSE,6h,Micromonas Pusilla
+Maat3B,H,FALSE,0,1186600,FALSE,12h,Micromonas Pusilla
+Maat3B,H,FALSE,5.9449,1195400,FALSE,12h,Micromonas Pusilla
+Maat3B,H,FALSE,12.0079,1078300,FALSE,12h,Micromonas Pusilla
+Maat3B,H,FALSE,18.0709,1074000,FALSE,12h,Micromonas Pusilla
+Maat3B,H,FALSE,24.1339,606970,FALSE,12h,Micromonas Pusilla
+Maat3B,H,FALSE,30.0787,274500,FALSE,12h,Micromonas Pusilla
+Maat3B,H,FALSE,35.9843,162950,FALSE,12h,Micromonas Pusilla
+Maat3B,H,FALSE,48.0709,26247.4368,FALSE,12h,Micromonas Pusilla
+Maat3B,H,FALSE,54.0551,2.3283E-10,FALSE,12h,Micromonas Pusilla
+Maat3B,H,FALSE,0,1213900,FALSE,18h,Micromonas Pusilla
+Maat3B,H,FALSE,6.0236,1254400,FALSE,18h,Micromonas Pusilla
+Maat3B,H,FALSE,12.0472,1165800,FALSE,18h,Micromonas Pusilla
+Maat3B,H,FALSE,18.0315,1149400,FALSE,18h,Micromonas Pusilla
+Maat3B,H,FALSE,24.0157,535890,FALSE,18h,Micromonas Pusilla
+Maat3B,H,FALSE,30,300750,FALSE,18h,Micromonas Pusilla
+Maat3B,H,FALSE,35.9843,172800,FALSE,18h,Micromonas Pusilla
+Maat3B,H,FALSE,48.0709,26247.4368,FALSE,18h,Micromonas Pusilla
+Maat3B,H,FALSE,54.0551,2.3283E-10,FALSE,18h,Micromonas Pusilla
+Maat3B,H,FALSE,0,1213900,FALSE,24h,Micromonas Pusilla
+Maat3B,H,FALSE,6.0236,1250000,FALSE,24h,Micromonas Pusilla
+Maat3B,H,FALSE,12.0472,1171300,FALSE,24h,Micromonas Pusilla
+Maat3B,H,FALSE,18.0315,1077200,FALSE,24h,Micromonas Pusilla
+Maat3B,H,FALSE,24.1732,604780,FALSE,24h,Micromonas Pusilla
+Maat3B,H,FALSE,30.0394,278880,FALSE,24h,Micromonas Pusilla
+Maat3B,H,FALSE,36.0236,145450,FALSE,24h,Micromonas Pusilla
+Maat3B,H,FALSE,48.0709,26247.4368,FALSE,24h,Micromonas Pusilla
+Maat3B,H,FALSE,54.0551,2.3283E-10,FALSE,24h,Micromonas Pusilla
+Maat3B,H,FALSE,0,1175700,FALSE,30h,Micromonas Pusilla
+Maat3B,H,FALSE,6.063,1219400,FALSE,30h,Micromonas Pusilla
+Maat3B,H,FALSE,12.0079,1129700,FALSE,30h,Micromonas Pusilla
+Maat3B,H,FALSE,17.9921,1077200,FALSE,30h,Micromonas Pusilla
+Maat3B,H,FALSE,23.9764,555570,FALSE,30h,Micromonas Pusilla
+Maat3B,H,FALSE,30,302940,FALSE,30h,Micromonas Pusilla
+Maat3B,H,FALSE,35.9843,136710,FALSE,30h,Micromonas Pusilla
+Maat3B,H,FALSE,48.0709,26247.4368,FALSE,30h,Micromonas Pusilla
+Maat3B,H,FALSE,54.0551,2.3283E-10,FALSE,30h,Micromonas Pusilla
+Maat3B,H,FALSE,0,1161400,FALSE,36h,Micromonas Pusilla
+Maat3B,H,FALSE,6.0236,1199700,FALSE,36h,Micromonas Pusilla
+Maat3B,H,FALSE,12.0079,1100200,FALSE,36h,Micromonas Pusilla
+Maat3B,H,FALSE,17.9921,1072900,FALSE,36h,Micromonas Pusilla
+Maat3B,H,FALSE,24.0157,627750,FALSE,36h,Micromonas Pusilla
+Maat3B,H,FALSE,30.0394,279970,FALSE,36h,Micromonas Pusilla
+Maat3B,H,FALSE,36.1024,149830,FALSE,36h,Micromonas Pusilla
+Maat3B,H,FALSE,48.0709,28434.7231,FALSE,36h,Micromonas Pusilla
+Maat3B,H,FALSE,54.0551,2.3283E-10,FALSE,36h,Micromonas Pusilla
+Maat3B,H,FALSE,0,1122100,FALSE,48h,Micromonas Pusilla
+Maat3B,H,FALSE,6.0236,1164700,FALSE,48h,Micromonas Pusilla
+Maat3B,H,FALSE,12.0079,1227100,FALSE,48h,Micromonas Pusilla
+Maat3B,H,FALSE,17.9921,1072900,FALSE,48h,Micromonas Pusilla
+Maat3B,H,FALSE,24.0157,594940,FALSE,48h,Micromonas Pusilla
+Maat3B,H,FALSE,30,242790,FALSE,48h,Micromonas Pusilla
+Maat3B,H,FALSE,36.0236,180450,FALSE,48h,Micromonas Pusilla
+Maat3B,H,FALSE,48.0709,28434.7231,FALSE,48h,Micromonas Pusilla
+Maat3B,H,FALSE,54.0551,2.3283E-10,FALSE,48h,Micromonas Pusilla
+Maat3B,H,FALSE,0,1095800,FALSE,p-starved,Micromonas Pusilla
+Maat3B,H,FALSE,6.0236,1146100,FALSE,p-starved,Micromonas Pusilla
+Maat3B,H,FALSE,12.0079,1117700,FALSE,p-starved,Micromonas Pusilla
+Maat3B,H,FALSE,18.0709,1083800,FALSE,p-starved,Micromonas Pusilla
+Maat3B,H,FALSE,23.9764,587290,FALSE,p-starved,Micromonas Pusilla
+Maat3B,H,FALSE,30.0394,294190,FALSE,p-starved,Micromonas Pusilla
+Maat3B,H,FALSE,36.0236,158580,FALSE,p-starved,Micromonas Pusilla
+Maat3B,H,FALSE,48.0315,29528.3664,FALSE,p-starved,Micromonas Pusilla
+Maat3B,H,FALSE,54.0551,2.3283E-10,FALSE,p-starved,Micromonas Pusilla
+Maat3C,V,FALSE,1.61E-03,12270000,FALSE,1h,Micromonas Pusilla
+Maat3C,V,FALSE,5.9885,9611500,FALSE,1h,Micromonas Pusilla
+Maat3C,V,FALSE,11.9397,35378000,FALSE,1h,Micromonas Pusilla
+Maat3C,V,FALSE,18.0123,86299000,FALSE,1h,Micromonas Pusilla
+Maat3C,V,FALSE,24.009,158690000,FALSE,1h,Micromonas Pusilla
+Maat3C,V,FALSE,30.0019,202250000,FALSE,1h,Micromonas Pusilla
+Maat3C,V,FALSE,35.9506,208380000,FALSE,1h,Micromonas Pusilla
+Maat3C,V,FALSE,48.0059,224740000,FALSE,1h,Micromonas Pusilla
+Maat3C,V,FALSE,72.0322,215540000,FALSE,1h,Micromonas Pusilla
+Maat3C,V,FALSE,1.61E-03,12270000,FALSE,6h,Micromonas Pusilla
+Maat3C,V,FALSE,5.9885,9611500,FALSE,6h,Micromonas Pusilla
+Maat3C,V,FALSE,12.0171,25153000,FALSE,6h,Micromonas Pusilla
+Maat3C,V,FALSE,18.0111,76892000,FALSE,6h,Micromonas Pusilla
+Maat3C,V,FALSE,24.0071,143970000,FALSE,6h,Micromonas Pusilla
+Maat3C,V,FALSE,30.0394,187930000,FALSE,6h,Micromonas Pusilla
+Maat3C,V,FALSE,35.9905,212270000,FALSE,6h,Micromonas Pusilla
+Maat3C,V,FALSE,47.9639,204910000,FALSE,6h,Micromonas Pusilla
+Maat3C,V,FALSE,72.0304,201640000,FALSE,6h,Micromonas Pusilla
+Maat3C,V,FALSE,1.61E-03,12270000,FALSE,12h,Micromonas Pusilla
+Maat3C,V,FALSE,5.9885,9611500,FALSE,12h,Micromonas Pusilla
+Maat3C,V,FALSE,11.9405,42945000,FALSE,12h,Micromonas Pusilla
+Maat3C,V,FALSE,17.9306,64622000,FALSE,12h,Micromonas Pusilla
+Maat3C,V,FALSE,24.0065,139880000,FALSE,12h,Micromonas Pusilla
+Maat3C,V,FALSE,30.0026,206950000,FALSE,12h,Micromonas Pusilla
+Maat3C,V,FALSE,35.9917,221680000,FALSE,12h,Micromonas Pusilla
+Maat3C,V,FALSE,48.0048,216770000,FALSE,12h,Micromonas Pusilla
+Maat3C,V,FALSE,72.0701,203890000,FALSE,12h,Micromonas Pusilla
+Maat3C,V,FALSE,1.61E-03,12270000,FALSE,18h,Micromonas Pusilla
+Maat3C,V,FALSE,5.9885,9611500,FALSE,18h,Micromonas Pusilla
+Maat3C,V,FALSE,11.9765,15746000,FALSE,18h,Micromonas Pusilla
+Maat3C,V,FALSE,18.0093,63395000,FALSE,18h,Micromonas Pusilla
+Maat3C,V,FALSE,24.004,120250000,FALSE,18h,Micromonas Pusilla
+Maat3C,V,FALSE,29.9976,168920000,FALSE,18h,Micromonas Pusilla
+Maat3C,V,FALSE,35.9518,217590000,FALSE,18h,Micromonas Pusilla
+Maat3C,V,FALSE,48.0427,204910000,FALSE,18h,Micromonas Pusilla
+Maat3C,V,FALSE,72.0286,187930000,FALSE,18h,Micromonas Pusilla
+Maat3C,V,FALSE,1.61E-03,12270000,FALSE,24h,Micromonas Pusilla
+Maat3C,V,FALSE,5.9886,10429000,FALSE,24h,Micromonas Pusilla
+Maat3C,V,FALSE,11.8991,26176000,FALSE,24h,Micromonas Pusilla
+Maat3C,V,FALSE,18.009,60941000,FALSE,24h,Micromonas Pusilla
+Maat3C,V,FALSE,23.9612,94479000,FALSE,24h,Micromonas Pusilla
+Maat3C,V,FALSE,30.0705,124540000,FALSE,24h,Micromonas Pusilla
+Maat3C,V,FALSE,36.0197,134760000,FALSE,24h,Micromonas Pusilla
+Maat3C,V,FALSE,47.9918,117380000,FALSE,24h,Micromonas Pusilla
+Maat3C,V,FALSE,72.0209,129450000,FALSE,24h,Micromonas Pusilla
+Maat3C,V,FALSE,1.61E-03,12270000,FALSE,30h,Micromonas Pusilla
+Maat3C,V,FALSE,5.9886,10429000,FALSE,30h,Micromonas Pusilla
+Maat3C,V,FALSE,11.8991,26176000,FALSE,30h,Micromonas Pusilla
+Maat3C,V,FALSE,17.9708,70143000,FALSE,30h,Micromonas Pusilla
+Maat3C,V,FALSE,23.9607,90593000,FALSE,30h,Micromonas Pusilla
+Maat3C,V,FALSE,29.9899,110220000,FALSE,30h,Micromonas Pusilla
+Maat3C,V,FALSE,35.9398,126790000,FALSE,30h,Micromonas Pusilla
+Maat3C,V,FALSE,47.991,111660000,FALSE,30h,Micromonas Pusilla
+Maat3C,V,FALSE,72.0198,120450000,FALSE,30h,Micromonas Pusilla
+Maat3C,V,FALSE,1.69E-03,12883000,FALSE,36h,Micromonas Pusilla
+Maat3C,V,FALSE,5.9492,10429000,FALSE,36h,Micromonas Pusilla
+Maat3C,V,FALSE,11.9781,28016000,FALSE,36h,Micromonas Pusilla
+Maat3C,V,FALSE,17.9293,54397000,FALSE,36h,Micromonas Pusilla
+Maat3C,V,FALSE,23.9614,95706000,FALSE,36h,Micromonas Pusilla
+Maat3C,V,FALSE,29.9899,110220000,FALSE,36h,Micromonas Pusilla
+Maat3C,V,FALSE,35.9405,132920000,FALSE,36h,Micromonas Pusilla
+Maat3C,V,FALSE,47.9525,118200000,FALSE,36h,Micromonas Pusilla
+Maat3C,V,FALSE,72.0187,112470000,FALSE,36h,Micromonas Pusilla
+Maat3C,V,FALSE,1.93E-03,14724000,FALSE,48h,Micromonas Pusilla
+Maat3C,V,FALSE,5.9492,10429000,FALSE,48h,Micromonas Pusilla
+Maat3C,V,FALSE,11.9372,16769000,FALSE,48h,Micromonas Pusilla
+Maat3C,V,FALSE,17.972,79141000,FALSE,48h,Micromonas Pusilla
+Maat3C,V,FALSE,23.9602,86503000,FALSE,48h,Micromonas Pusilla
+Maat3C,V,FALSE,29.988,95910000,FALSE,48h,Micromonas Pusilla
+Maat3C,V,FALSE,35.9392,122090000,FALSE,48h,Micromonas Pusilla
+Maat3C,V,FALSE,48.0301,109410000,FALSE,48h,Micromonas Pusilla
+Maat3C,V,FALSE,72.0202,123520000,FALSE,48h,Micromonas Pusilla
+Maat3C,V,FALSE,1.93E-03,14724000,FALSE,p-starved,Micromonas Pusilla
+Maat3C,V,FALSE,5.9492,10225000,FALSE,p-starved,Micromonas Pusilla
+Maat3C,V,FALSE,11.9376,19836000,FALSE,p-starved,Micromonas Pusilla
+Maat3C,V,FALSE,17.971,72393000,FALSE,p-starved,Micromonas Pusilla
+Maat3C,V,FALSE,23.9614,95910000,FALSE,p-starved,Micromonas Pusilla
+Maat3C,V,FALSE,29.99,111660000,FALSE,p-starved,Micromonas Pusilla
+Maat3C,V,FALSE,35.9769,109820000,FALSE,p-starved,Micromonas Pusilla
+Maat3C,V,FALSE,47.9905,107770000,FALSE,p-starved,Micromonas Pusilla
+Maat3C,V,FALSE,71.9795,113500000,FALSE,p-starved,Micromonas Pusilla
+Maat4A,H,TRUE,0.0152,942730,FALSE,SRP,Micromonas Pusilla
+Maat4A,H,TRUE,5.9729,1074400,FALSE,SRP,Micromonas Pusilla
+Maat4A,H,TRUE,12.0139,1366600,FALSE,SRP,Micromonas Pusilla
+Maat4A,H,TRUE,18.0569,1784600,FALSE,SRP,Micromonas Pusilla
+Maat4A,H,TRUE,24.0167,2034900,FALSE,SRP,Micromonas Pusilla
+Maat4A,H,TRUE,29.9745,2166600,FALSE,SRP,Micromonas Pusilla
+Maat4A,H,TRUE,36.0173,2577500,FALSE,SRP,Micromonas Pusilla
+Maat4A,H,TRUE,48.0286,3776500,FALSE,SRP,Micromonas Pusilla
+Maat4A,H,TRUE,0.0153,949720,FALSE,AMP,Micromonas Pusilla
+Maat4A,H,TRUE,5.9727,1060400,FALSE,AMP,Micromonas Pusilla
+Maat4A,H,TRUE,12.0138,1359600,FALSE,AMP,Micromonas Pusilla
+Maat4A,H,TRUE,18.1374,1784500,FALSE,AMP,Micromonas Pusilla
+Maat4A,H,TRUE,24.0949,1895200,FALSE,AMP,Micromonas Pusilla
+Maat4A,H,TRUE,29.9713,1964000,FALSE,AMP,Micromonas Pusilla
+Maat4A,H,TRUE,36.0913,2172500,FALSE,AMP,Micromonas Pusilla
+Maat4A,H,TRUE,48.0211,3308700,FALSE,AMP,Micromonas Pusilla
+Maat4A,H,TRUE,0.0151,935750,FALSE,GP,Micromonas Pusilla
+Maat4A,H,TRUE,5.8916,1018500,FALSE,GP,Micromonas Pusilla
+Maat4A,H,TRUE,12.0141,1373600,FALSE,GP,Micromonas Pusilla
+Maat4A,H,TRUE,18.0563,1749600,FALSE,GP,Micromonas Pusilla
+Maat4A,H,TRUE,24.0159,1986000,FALSE,GP,Micromonas Pusilla
+Maat4A,H,TRUE,30.0545,2138600,FALSE,GP,Micromonas Pusilla
+Maat4A,H,TRUE,36.0154,2458800,FALSE,GP,Micromonas Pusilla
+Maat4A,H,TRUE,48.0281,3748600,FALSE,GP,Micromonas Pusilla
+Maat4A,H,TRUE,0.0152,942730,FALSE,PP,Micromonas Pusilla
+Maat4A,H,TRUE,5.8919,1032500,FALSE,PP,Micromonas Pusilla
+Maat4A,H,TRUE,12.0136,1345700,FALSE,PP,Micromonas Pusilla
+Maat4A,H,TRUE,18.0577,1833400,FALSE,PP,Micromonas Pusilla
+Maat4A,H,TRUE,24.0173,2076800,FALSE,PP,Micromonas Pusilla
+Maat4A,H,TRUE,29.9736,2110700,FALSE,PP,Micromonas Pusilla
+Maat4A,H,TRUE,36.0131,2312100,FALSE,PP,Micromonas Pusilla
+Maat4A,H,TRUE,48.1038,3448300,FALSE,PP,Micromonas Pusilla
+Maat4A,H,TRUE,0.0148,921790,FALSE,p-starved,Micromonas Pusilla
+Maat4A,H,TRUE,5.9721,1018500,FALSE,p-starved,Micromonas Pusilla
+Maat4A,H,TRUE,12.01,1122200,FALSE,p-starved,Micromonas Pusilla
+Maat4A,H,TRUE,18.0495,1323700,FALSE,p-starved,Micromonas Pusilla
+Maat4A,H,TRUE,24.0067,1413400,FALSE,p-starved,Micromonas Pusilla
+Maat4A,H,TRUE,29.9607,1314600,FALSE,p-starved,Micromonas Pusilla
+Maat4A,H,TRUE,35.9942,1139000,FALSE,p-starved,Micromonas Pusilla
+Maat4A,H,TRUE,47.987,1192700,FALSE,p-starved,Micromonas Pusilla
+Maat4B,H,FALSE,0,965030,FALSE,SRP,Micromonas Pusilla
+Maat4B,H,FALSE,6.0362,1040400,FALSE,SRP,Micromonas Pusilla
+Maat4B,H,FALSE,12.0724,1140900,FALSE,SRP,Micromonas Pusilla
+Maat4B,H,FALSE,17.9477,1113500,FALSE,SRP,Micromonas Pusilla
+Maat4B,H,FALSE,24.0644,867900,FALSE,SRP,Micromonas Pusilla
+Maat4B,H,FALSE,30.1006,567740,FALSE,SRP,Micromonas Pusilla
+Maat4B,H,FALSE,35.8954,280180,FALSE,SRP,Micromonas Pusilla
+Maat4B,H,FALSE,47.9678,118320,FALSE,SRP,Micromonas Pusilla
+Maat4B,H,FALSE,72.0322,208.946,FALSE,SRP,Micromonas Pusilla
+Maat4B,H,FALSE,0,923080,FALSE,AMP,Micromonas Pusilla
+Maat4B,H,FALSE,6.0362,1040400,FALSE,AMP,Micromonas Pusilla
+Maat4B,H,FALSE,11.992,998290,FALSE,AMP,Micromonas Pusilla
+Maat4B,H,FALSE,18.0282,1021200,FALSE,AMP,Micromonas Pusilla
+Maat4B,H,FALSE,23.9839,916150,FALSE,AMP,Micromonas Pusilla
+Maat4B,H,FALSE,29.9396,613900,FALSE,AMP,Micromonas Pusilla
+Maat4B,H,FALSE,36.0563,353600,FALSE,AMP,Micromonas Pusilla
+Maat4B,H,FALSE,47.9678,160280,FALSE,AMP,Micromonas Pusilla
+Maat4B,H,FALSE,72.0322,208.946,FALSE,AMP,Micromonas Pusilla
+Maat4B,H,FALSE,0,902100,FALSE,GP,Micromonas Pusilla
+Maat4B,H,FALSE,6.0362,1000500,FALSE,GP,Micromonas Pusilla
+Maat4B,H,FALSE,11.992,1071700,FALSE,GP,Micromonas Pusilla
+Maat4B,H,FALSE,18.0282,1082000,FALSE,GP,Micromonas Pusilla
+Maat4B,H,FALSE,23.9034,872100,FALSE,GP,Micromonas Pusilla
+Maat4B,H,FALSE,30.0201,532080,FALSE,GP,Micromonas Pusilla
+Maat4B,H,FALSE,35.9759,328430,FALSE,GP,Micromonas Pusilla
+Maat4B,H,FALSE,47.9678,84756.089,FALSE,GP,Micromonas Pusilla
+Maat4B,H,FALSE,72.0322,208.946,FALSE,GP,Micromonas Pusilla
+Maat4B,H,FALSE,0,912590,FALSE,PP,Micromonas Pusilla
+Maat4B,H,FALSE,6.0362,983760,FALSE,PP,Micromonas Pusilla
+Maat4B,H,FALSE,12.0724,958420,FALSE,PP,Micromonas Pusilla
+Maat4B,H,FALSE,18.0282,998130,FALSE,PP,Micromonas Pusilla
+Maat4B,H,FALSE,23.9839,783990,FALSE,PP,Micromonas Pusilla
+Maat4B,H,FALSE,29.9396,502710,FALSE,PP,Micromonas Pusilla
+Maat4B,H,FALSE,36.0563,267590,FALSE,PP,Micromonas Pusilla
+Maat4B,H,FALSE,48.0483,107830,FALSE,PP,Micromonas Pusilla
+Maat4B,H,FALSE,71.8712,213.1671,FALSE,PP,Micromonas Pusilla
+Maat4B,H,FALSE,1.42E-14,958920,FALSE,p-starved,Micromonas Pusilla
+Maat4B,H,FALSE,6.0916,984890,FALSE,p-starved,Micromonas Pusilla
+Maat4B,H,FALSE,12.0675,955760,FALSE,p-starved,Micromonas Pusilla
+Maat4B,H,FALSE,18.0819,956690,FALSE,p-starved,Micromonas Pusilla
+Maat4B,H,FALSE,24.0964,785270,FALSE,p-starved,Micromonas Pusilla
+Maat4B,H,FALSE,30.0723,552730,FALSE,p-starved,Micromonas Pusilla
+Maat4B,H,FALSE,"36.0096,",332210,FALSE,p-starved,Micromonas Pusilla
+Maat4B,H,FALSE,48.0386,78556.6313,FALSE,p-starved,Micromonas Pusilla
+Maat4B,H,FALSE,72.0193,99.959,FALSE,p-starved,Micromonas Pusilla
+Maat4C,V,FALSE,0,14685000,FALSE,SRP,Micromonas Pusilla
+Maat4C,V,FALSE,5.9557,11512000,FALSE,SRP,Micromonas Pusilla
+Maat4C,V,FALSE,12.0724,21975000,FALSE,SRP,Micromonas Pusilla
+Maat4C,V,FALSE,18.0282,69152000,FALSE,SRP,Micromonas Pusilla
+Maat4C,V,FALSE,24.0644,118780000,FALSE,SRP,Micromonas Pusilla
+Maat4C,V,FALSE,30.0201,175040000,FALSE,SRP,Micromonas Pusilla
+Maat4C,V,FALSE,35.9759,195650000,FALSE,SRP,Micromonas Pusilla
+Maat4C,V,FALSE,47.9678,188600000,FALSE,SRP,Micromonas Pusilla
+Maat4C,V,FALSE,59.9598,192050000,FALSE,SRP,Micromonas Pusilla
+Maat4C,V,FALSE,72.0322,151780000,FALSE,SRP,Micromonas Pusilla
+Maat4C,V,FALSE,0,10839000,FALSE,AMP,Micromonas Pusilla
+Maat4C,V,FALSE,6.0362,11512000,FALSE,AMP,Micromonas Pusilla
+Maat4C,V,FALSE,11.9115,22326000,FALSE,AMP,Micromonas Pusilla
+Maat4C,V,FALSE,17.9477,62859000,FALSE,AMP,Micromonas Pusilla
+Maat4C,V,FALSE,23.9839,98846000,FALSE,AMP,Micromonas Pusilla
+Maat4C,V,FALSE,29.9396,125390000,FALSE,AMP,Micromonas Pusilla
+Maat4C,V,FALSE,35.9759,136910000,FALSE,AMP,Micromonas Pusilla
+Maat4C,V,FALSE,48.0483,170070000,FALSE,AMP,Micromonas Pusilla
+Maat4C,V,FALSE,59.9598,158830000,FALSE,AMP,Micromonas Pusilla
+Maat4C,V,FALSE,72.0322,136050000,FALSE,AMP,Micromonas Pusilla
+Maat4C,V,FALSE,0,13636000,FALSE,GP,Micromonas Pusilla
+Maat4C,V,FALSE,5.9557,11512000,FALSE,GP,Micromonas Pusilla
+Maat4C,V,FALSE,11.992,21276000,FALSE,GP,Micromonas Pusilla
+Maat4C,V,FALSE,18.0282,70551000,FALSE,GP,Micromonas Pusilla
+Maat4C,V,FALSE,23.9839,111430000,FALSE,GP,Micromonas Pusilla
+Maat4C,V,FALSE,29.9396,124690000,FALSE,GP,Micromonas Pusilla
+Maat4C,V,FALSE,35.9759,131660000,FALSE,GP,Micromonas Pusilla
+Maat4C,V,FALSE,47.9678,160630000,FALSE,GP,Micromonas Pusilla
+Maat4C,V,FALSE,59.9598,159530000,FALSE,GP,Micromonas Pusilla
+Maat4C,V,FALSE,71.9517,191990000,FALSE,GP,Micromonas Pusilla
+Maat4C,V,FALSE,0,12937000,FALSE,PP,Micromonas Pusilla
+Maat4C,V,FALSE,11.992,27220000,FALSE,PP,Micromonas Pusilla
+Maat4C,V,FALSE,18.0282,69152000,FALSE,PP,Micromonas Pusilla
+Maat4C,V,FALSE,23.9839,132410000,FALSE,PP,Micromonas Pusilla
+Maat4C,V,FALSE,30.0201,159310000,FALSE,PP,Micromonas Pusilla
+Maat4C,V,FALSE,36.0563,178160000,FALSE,PP,Micromonas Pusilla
+Maat4C,V,FALSE,47.9678,177060000,FALSE,PP,Micromonas Pusilla
+Maat4C,V,FALSE,59.9598,175610000,FALSE,PP,Micromonas Pusilla
+Maat4C,V,FALSE,71.9517,170660000,FALSE,PP,Micromonas Pusilla
+Maat4C,V,FALSE,0,14205000,FALSE,p-starved,Micromonas Pusilla
+Maat4C,V,FALSE,6.0472,11209000,FALSE,p-starved,Micromonas Pusilla
+Maat4C,V,FALSE,12.0558,18575000,FALSE,p-starved,Micromonas Pusilla
+Maat4C,V,FALSE,17.9875,36468000,FALSE,p-starved,Micromonas Pusilla
+Maat4C,V,FALSE,23.9961,53526000,FALSE,p-starved,Micromonas Pusilla
+Maat4C,V,FALSE,30.0048,61560000,FALSE,p-starved,Micromonas Pusilla
+Maat4C,V,FALSE,35.975,73270000,FALSE,p-starved,Micromonas Pusilla
+Maat4C,V,FALSE,47.9538,78643000,FALSE,p-starved,Micromonas Pusilla
+Maat4C,V,FALSE,59.971,83180000,FALSE,p-starved,Micromonas Pusilla
+Maat4C,V,FALSE,72.027,91394000,FALSE,p-starved,Micromonas Pusilla
+Maat4D,V,FALSE,3.76E-03,14649000,FALSE,minus lysate,Micromonas Pusilla
+Maat4D,V,FALSE,5.9757,10334000,FALSE,minus lysate,Micromonas Pusilla
+Maat4D,V,FALSE,11.9891,11.9891,FALSE,minus lysate,Micromonas Pusilla
+Maat4D,V,FALSE,18.0054,18.0054,FALSE,minus lysate,Micromonas Pusilla
+Maat4D,V,FALSE,24.0214,24.0214,FALSE,minus lysate,Micromonas Pusilla
+Maat4D,V,FALSE,30.035,30.035,FALSE,minus lysate,Micromonas Pusilla
+Maat4D,V,FALSE,36.011,36.011,FALSE,minus lysate,Micromonas Pusilla
+Maat4D,V,FALSE,48.0355,48.0355,FALSE,minus lysate,Micromonas Pusilla
+Maat4D,V,FALSE,72.0466,72.0466,FALSE,minus lysate,Micromonas Pusilla
+Maat4D,V,FALSE,3.76E-03,14649000,FALSE,plus lysate,Micromonas Pusilla
+Maat4D,V,FALSE,5.9757,10334000,FALSE,plus lysate,Micromonas Pusilla
+Maat4D,V,FALSE,11.9891,17759000,FALSE,plus lysate,Micromonas Pusilla
+Maat4D,V,FALSE,17.9686,42943000,FALSE,plus lysate,Micromonas Pusilla
+Maat4D,V,FALSE,24.0251,67726000,FALSE,plus lysate,Micromonas Pusilla
+Maat4D,V,FALSE,29.9998,74348000,FALSE,plus lysate,Micromonas Pusilla
+Maat4D,V,FALSE,36.0152,89097000,FALSE,plus lysate,Micromonas Pusilla
+Maat4D,V,FALSE,48.0031,102240000,FALSE,plus lysate,Micromonas Pusilla
+Maat4D,V,FALSE,72.0153,119700000,FALSE,plus lysate,Micromonas Pusilla
